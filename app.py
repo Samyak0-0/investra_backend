@@ -3,8 +3,10 @@ import requests
 from datetime import datetime
 import os
 from dotenv import load_dotenv
+from flask_cors import CORS
 
 app = Flask(__name__)
+CORS(app)  # Enable CORS for all routes
 
 load_dotenv()
 
