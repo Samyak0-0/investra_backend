@@ -4,6 +4,7 @@ from datetime import datetime
 import os
 from dotenv import load_dotenv
 from flask_cors import CORS
+from models.schemas import User
 
 app = Flask(__name__)
 CORS(app)  # Enable CORS for all routes
@@ -13,7 +14,16 @@ load_dotenv()
 API_KEY = os.getenv("API_KEY")
 BASE_URL = "https://www.alphavantage.co/query"
 
-@app.route('/stock/<symbol>', methods=['GET'])
+@app.route('/api/signup', methods=['POST'])
+def signup():
+    data = request.get_json()
+    username = data["username"]
+    password= data["password"]
+
+    user = User.query.filter_by(username=username).first()
+    return user
+
+@app.route('/api/stock/<symbol>', methods=['GET'])
 def get_stock_data(symbol):
     interval = request.args.get('interval', 'daily')
     
