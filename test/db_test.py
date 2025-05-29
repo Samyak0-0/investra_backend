@@ -8,9 +8,10 @@ Session = sessionmaker(bind=db)
 
 session = Session()
 
+Base.metadata.create_all(db)
+
 myUser = User(id="010CYBIOA",name='test',email='test_mail@gmail.com')
 
-Base.metadata.create_all(db)
 
 session.add(myUser)
 session.commit()
