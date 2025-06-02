@@ -15,7 +15,7 @@ def get_stock_data(symbol):
 
     # Map interval to Alpha Vantage function
     interval_map = {
-        'intraday': 'TIME_SERIES_INTRADAY',
+        'intraday': 'TIME_SERIES_INTRADAY_ADJUSTED',
         'daily': 'TIME_SERIES_DAILY_ADJUSTED',
         'weekly': 'TIME_SERIES_WEEKLY_ADJUSTED',
         'monthly': 'TIME_SERIES_MONTHLY_ADJUSTED'
