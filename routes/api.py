@@ -1,4 +1,4 @@
-from flask import Blueprint, jsonify
+from flask import Blueprint
 from routes.stocks import stocks_bp
 from routes.sign_up import sign_up_bp
 
@@ -11,4 +11,3 @@ api_bp = Blueprint('api', __name__, url_prefix='/api')
 
 for bp in blueprints:
     api_bp.register_blueprint(bp)
-

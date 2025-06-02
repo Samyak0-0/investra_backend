@@ -10,7 +10,7 @@ session = Session()
 
 Base.metadata.create_all(db)
 
-myUser = User(id="010CYBIOA",name='test',email='test_mail@gmail.com')
+myUser = User(name='test',email='test_mail@gmail.com',password_hash='$123$@abcdefg')
 
 
 session.add(myUser)

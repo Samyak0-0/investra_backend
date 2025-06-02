@@ -1,13 +1,15 @@
 from sqlalchemy import Integer, String, ForeignKey, DateTime, PrimaryKeyConstraint
+import uuid
 from sqlalchemy.orm import Mapped, mapped_column
 from sqlalchemy.sql import func
 from models.database import Base
+
 
 class User(Base):
     __tablename__ = "users"
 
     id: Mapped[str] = mapped_column(
-        String(32), primary_key=True
+        String(128), primary_key=True, default=uuid.uuid4()
     )
     email: Mapped[str] = mapped_column(
         String(100), unique=True, nullable=False
@@ -29,7 +31,7 @@ class Portfolio(Base):
     __tablename__ = "portfolio"
 
     user_id: Mapped[str] = mapped_column(
-        String(32), ForeignKey('users.id')
+        String(128), ForeignKey('users.id')
     )
     stock_id: Mapped[int] = mapped_column(
         Integer, ForeignKey('stocks.id')
