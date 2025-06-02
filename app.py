@@ -10,16 +10,6 @@ CORS(app)
 load_dotenv()
 
 
-@app.route('/api/signup', methods=['POST'])
-def signup():
-    data = request.get_json()
-    username = data["username"]
-    password = data["password"]
-
-    user = User.query.filter_by(username=username).first()
-    return user
-
-
 app.register_blueprint(api_bp)
 
 if __name__ == '__main__':
