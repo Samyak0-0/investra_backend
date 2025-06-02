@@ -5,23 +5,19 @@ import os
 from dotenv import load_dotenv
 from flask_cors import CORS
 from models.schemas import User
+from models.database import SessionLocal
+from signup import signup_bp
+
 
 app = Flask(__name__)
-CORS(app)  # Enable CORS for all routes
+CORS(app, origins=["http://localhost:3000"])
+  # Enable CORS for all routes
 
 load_dotenv()
 
-API_KEY = os.getenv("API_KEY")
+API_KEY = os.getenv("API_KEY") 
 BASE_URL = "https://www.alphavantage.co/query"
-
-@app.route('/api/signup', methods=['POST'])
-def signup():
-    data = request.get_json()
-    username = data["username"]
-    password= data["password"]
-
-    user = User.query.filter_by(username=username).first()
-    return user
+app.register_blueprint(signup_bp)
 
 @app.route('/api/stock/<symbol>', methods=['GET'])
 def get_stock_data(symbol):
