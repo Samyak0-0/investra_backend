@@ -2,6 +2,7 @@ from flask import Blueprint, jsonify
 from flask import request
 import requests
 import os
+import json
 
 stocks_bp = Blueprint('stocks', __name__, url_prefix="/stocks")
 
@@ -15,7 +16,6 @@ def get_stock_data(symbol):
 
     # Map interval to Alpha Vantage function
     interval_map = {
-        'intraday': 'TIME_SERIES_INTRADAY_ADJUSTED',
         'daily': 'TIME_SERIES_DAILY_ADJUSTED',
         'weekly': 'TIME_SERIES_WEEKLY_ADJUSTED',
         'monthly': 'TIME_SERIES_MONTHLY_ADJUSTED'
@@ -35,13 +35,30 @@ def get_stock_data(symbol):
         params['interval'] = '5min'
 
     try:
-        response = requests.get(BASE_URL, params=params)
-        data = response.json()
+        appdata_dir = os.path.join(os.path.dirname(__file__), '..', 'appdata')
+        os.makedirs(appdata_dir, exist_ok=True)
+        filename = f"{symbol}_{interval}.json"
+        filepath = os.path.join(appdata_dir, filename)
 
-        if 'Error Message' in data:
-            return jsonify({'error': data['Error Message']}), 400
+        if os.path.exists(filepath):
+            with open(filepath, mode='r', encoding='utf-8') as file:
+                data = json.load(file)
+            print("data returned from appdata")
+            return jsonify(data)
+        else:
+            response = requests.get(BASE_URL, params=params)
+            data = response.json()
 
-        return jsonify(data)
+            if 'Error Message' in data:
+                return jsonify({'error': data['Error Message']}), 400;
+            
+            with open(filepath, 'w', encoding='utf-8') as f:
+                json.dump(data, f, ensure_ascii=False, indent=2);
+            
+            print("data returned from api")
+            return jsonify(data);
+        
+        
 
     except Exception as e:
         return jsonify({'error': str(e)}), 500
