@@ -3,7 +3,7 @@ from flask import request
 import requests
 import os
 
-stocks_bp = Blueprint('stocks', __name__, url_prefix="/stocks")
+stocks_bp = Blueprint('stocks', __name__, url_prefix="/stock")
 
 
 @stocks_bp.route('/<symbol>', methods=["GET"])
@@ -11,7 +11,7 @@ def get_stock_data(symbol):
 
     BASE_URL = "https://www.alphavantage.co/query"
     API_KEY = os.environ["API_KEY"]
-    interval = request.args.get('interval', 'daily')
+    interval = request.args.get('interval')
 
     # Map interval to Alpha Vantage function
     interval_map = {

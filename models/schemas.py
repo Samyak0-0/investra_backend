@@ -39,12 +39,22 @@ class Portfolio(Base):
     added_at: Mapped[str] = mapped_column(
         DateTime(timezone=True), server_default=func.now()
     )
-    password_hash: Mapped[str] = mapped_column(
-        String(120), nullable=True
+    quantity: Mapped[int] = mapped_column(
+        Integer,
+        nullable=False,
+    )
+    updated_at: Mapped[str] = mapped_column(
+        DateTime(timezone=True), nullable=True
     )
     __table_args__ = (
         PrimaryKeyConstraint("user_id", "stock_id"),
     )
+    
+    def to_dict(self):
+        return {col.name: getattr(self, col.name) for col in self.__table__.columns}
+
+    def __repr__(self) -> str:
+        return f'Portfolio(user_id={self.user_id!r},stock_id={self.stock_id!r},quantity={self.quantity!r},updated_at={self.updated_at!r},added_at={self.added_at!r})'
 
 
 class Stocks(Base):
@@ -56,5 +66,8 @@ class Stocks(Base):
     )
     name: Mapped[str] = mapped_column(
         String(10),
-        nullable=False
+        nullable=False,
     )
+
+    def to_dict(self):
+        return {col.name: getattr(self, col.name) for col in self.__table__.columns}
