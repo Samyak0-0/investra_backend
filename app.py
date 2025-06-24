@@ -10,8 +10,8 @@ app = Flask(__name__)
 CORS(app)
 load_dotenv()
 
-appdata_dir = os.path.join(os.path.dirname(__file__), '..', 'appdata')
-print(appdata_dir)
+# appdata_dir = os.path.join(os.path.dirname(__file__), '..', 'appdata')
+# print(appdata_dir)
 
 
 @app.route('/api/signup', methods=['POST'])
