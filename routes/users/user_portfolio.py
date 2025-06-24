@@ -84,4 +84,4 @@ def get_stocks_user():
             return jsonify({"Status": "Fail"}), 404
 
     except Exception as e:
-        return jsonify({"error": str(e)}), 500
+        return jsonify({"error": str(e)}), 499
