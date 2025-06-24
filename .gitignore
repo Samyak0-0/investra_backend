@@ -31,3 +31,5 @@ wheels/
 .vscode/
 *.swp
 *.swo
+
+/appdata
