@@ -16,7 +16,7 @@ def get_stock_data(symbol):
 
     # Map interval to Alpha Vantage function
     interval_map = {
-        'daily': 'TIME_SERIES_DAILY_ADJUSTED',
+        'daily': 'TIME_SERIES_DAILY',
         'weekly': 'TIME_SERIES_WEEKLY_ADJUSTED',
         'monthly': 'TIME_SERIES_MONTHLY_ADJUSTED'
     }
@@ -24,11 +24,19 @@ def get_stock_data(symbol):
     if interval not in interval_map:
         return jsonify({'error': 'Invalid interval. Choose from: intraday, daily, weekly, monthly'}), 400
 
-    params = {
-        'function': interval_map[interval],
-        'symbol': symbol,
-        'apikey': API_KEY
-    }
+    if (interval == 'daily'):
+        params = {
+            'function': interval_map[interval],
+            'symbol': symbol,
+            'apikey': API_KEY,
+            'outputsize': 'compact'
+        }
+    else:
+        params = {
+            'function': interval_map[interval],
+            'symbol': symbol,
+            'apikey': API_KEY,
+        }
 
     # Add interval parameter for intraday data
     if interval == 'intraday':
@@ -57,7 +65,6 @@ def get_stock_data(symbol):
             
             print("data returned from api")
             return jsonify(data);
-        
         
 
     except Exception as e:
