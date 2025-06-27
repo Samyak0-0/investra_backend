@@ -17,7 +17,6 @@ def add_stock_choice(symbol):
         stock_quantity = request.json.get('quantity')
         if not user_id:
             return jsonify({"error": "Missing user_id"}), 400
-        print(symbol)
 
         stock_id = stockSymbolToId(symbol)
         session = SessionLocal()

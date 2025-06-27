@@ -4,7 +4,13 @@ from models.database import SessionLocal
 
 def stockSymbolToId(symbol):
     session = SessionLocal()
-    stock = session.query(Stocks).filter_by(name=symbol).first()
-    stock_id = stock.id
-    session.close()
-    return stock_id
+    try:
+        print(symbol)
+        stock = session.query(Stocks).filter(Stocks.name == symbol).first()
+        print(stock)
+        if stock:
+            return stock.to_dict()['id']
+        else:
+            return ""
+    finally:
+        session.close()

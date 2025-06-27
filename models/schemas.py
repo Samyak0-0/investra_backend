@@ -4,7 +4,6 @@ import uuid
 import datetime
 from models.database import Base
 
-
 class User(Base):
     __tablename__ = "users"
 
@@ -134,3 +133,4 @@ class Stocks(Base):
 
     def to_dict(self):
         return {col.name: getattr(self, col.name) for col in self.__table__.columns}
+
