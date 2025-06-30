@@ -1,6 +1,7 @@
 from flask import Blueprint, jsonify
 from routes.stocks import stocks_bp
 from routes.portfolio import portfolio_bp
+from routes.comparison import comparison_bp
 
 # Registers /api route parent blueprint 
 # all child routes must be in this directory with name route.py for /api/route/
@@ -9,3 +10,4 @@ from routes.portfolio import portfolio_bp
 api_bp = Blueprint('api', __name__, url_prefix='/api')
 api_bp.register_blueprint(stocks_bp)
 api_bp.register_blueprint(portfolio_bp)
+api_bp.register_blueprint(comparison_bp)
