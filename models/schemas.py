@@ -4,7 +4,7 @@ from sqlalchemy import (
     ForeignKey,
     DateTime,
     PrimaryKeyConstraint,
-    UniqueConstraint,
+    UniqueConstraint
 )
 import uuid
 from sqlalchemy.orm import Mapped, mapped_column, relationship
@@ -78,3 +78,7 @@ class VerificationToken(Base):
     __table_args__ = (
         UniqueConstraint("identifier", "token"),
     )
+
+    def to_dict(self):
+        return {col.name: getattr(self, col.name) for col in self.__table__.columns}
+

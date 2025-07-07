@@ -1,4 +1,5 @@
 from sqlalchemy import create_engine
+from sqlalchemy.orm import sessionmaker
 from dotenv import load_dotenv
 import os
 from sqlalchemy.orm import DeclarativeBase
@@ -14,7 +15,10 @@ url_object = URL.create(
     host=f"{os.getenv('POSTGRES_HOST')}",
     database=f"{os.getenv('POSTGRES_DB')}",
 )
+
 engine = create_engine(url_object, echo=True)
+SessionLocal = sessionmaker(bind=engine)
+
 
 class Base(DeclarativeBase):  # just a base class for entities
     pass
