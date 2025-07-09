@@ -21,6 +21,9 @@ def get_simulation():
     
     BASE_URL = "https://www.alphavantage.co/query"
     API_KEY = os.environ["API_KEY"]
+    simulationsNumber = int(request.args.get('simulations'))
+    timeHorizon = int(request.args.get('timeHorizon'))
+    confLevel = int(request.args.get('confLevel'))
     userId = request.args.get('userId')
     
     appdata_dir = os.path.join(os.path.dirname(__file__), '..', 'appdata')
@@ -99,8 +102,8 @@ def get_simulation():
         returns = values[1:] / values[:-1] - 1
         # print("returns: ", returns)
 
-        n_simulations = 1000
-        n_days = 252  # 1 year
+        n_simulations = simulationsNumber
+        n_days = timeHorizon
         last_value = values[-1]
         simulations = np.zeros((n_simulations, n_days))
         for i in range(n_simulations):
@@ -113,11 +116,9 @@ def get_simulation():
         final_values = simulations[:, -1]
         mean_final = np.mean(final_values)
         median_final = np.median(final_values)
-        p5 = np.percentile(final_values, 5)
-        p95 = np.percentile(final_values, 95)
+        p5 = np.percentile(final_values, 100-confLevel)
+        p95 = np.percentile(final_values, confLevel)
         prob_loss = np.mean(final_values < last_value)
-
-        sample_paths = simulations[:10].tolist()
 
         # Plot all simulation paths (or a sample if too many) with random colors
         plt.figure(figsize=(10, 6))
@@ -172,12 +173,11 @@ def get_simulation():
             "5th_percentile": round(p5, 2),
             "95th_percentile": round(p95, 2),
             "probability_of_loss": round(prob_loss, 3),
-            "sample_paths": sample_paths,  # For visualization if needed
             "last_value": round(last_value, 2)
         }
-        # result['paths_plot'] = f"data:image/png;base64,{paths_img_base64}"
-        # result['histogram'] = f"data:image/png;base64,{hist_img_base64}"
-        # result['most_probable_path_plot'] = f"data:image/png;base64,{most_probable_img_base64}"
+        result['paths_plot'] = f"data:image/png;base64,{paths_img_base64}"
+        result['histogram'] = f"data:image/png;base64,{hist_img_base64}"
+        result['most_probable_path_plot'] = f"data:image/png;base64,{most_probable_img_base64}"
         
         return jsonify(result)
 
