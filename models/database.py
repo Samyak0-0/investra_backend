@@ -16,7 +16,7 @@ url_object = URL.create(
     database=f"{os.getenv('POSTGRES_DB')}",
 )
 
-engine = create_engine(url_object, echo=True)
+engine = create_engine(url_object, echo=False)
 SessionLocal = sessionmaker(bind=engine)
 
 
