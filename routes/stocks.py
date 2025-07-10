@@ -4,7 +4,7 @@ import requests
 import os
 import json
 
-stocks_bp = Blueprint('stocks', __name__, url_prefix="/stock")
+stocks_bp = Blueprint('stocks', __name__, url_prefix="/stocks")
 
 
 @stocks_bp.route('/<symbol>', methods=["GET"])
