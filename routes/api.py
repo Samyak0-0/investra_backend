@@ -1,5 +1,6 @@
 from flask import Blueprint
-from routes.stocks import stocks_bp
+from routes.stocks.stocks import stocks_bp
+from routes.stocks.news import news_bp
 from routes.sign_up import sign_up_bp
 from routes.users.user_portfolio import userportfolio_bp
 
@@ -7,7 +8,7 @@ from routes.users.user_portfolio import userportfolio_bp
 # all child routes must be in this directory with name route.py for /api/route/
 # sub routes can be defined within the route.py
 
-blueprints = [stocks_bp, sign_up_bp, userportfolio_bp]
+blueprints = [stocks_bp, sign_up_bp, userportfolio_bp, news_bp]
 api_bp = Blueprint('api', __name__, url_prefix='/api')
 
 for bp in blueprints:
