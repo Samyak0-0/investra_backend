@@ -149,35 +149,16 @@ def get_simulation():
         hist_img_base64 = base64.b64encode(buf.read()).decode('utf-8')
         plt.close()
 
-        # Find the most probable path (closest to median final value)
-        median_idx = np.argmin(np.abs(final_values - median_final))
-        most_probable_path = simulations[median_idx]
-
-        # Plot the most probable path
-        plt.figure(figsize=(10, 6))
-        plt.plot(most_probable_path, color='red', label='Most Probable Path')
-        plt.title('Most Probable Portfolio Value Path')
-        plt.xlabel('Days')
-        plt.ylabel('Portfolio Value')
-        plt.legend()
-        plt.tight_layout()
-        buf = io.BytesIO()
-        plt.savefig(buf, format='png')
-        buf.seek(0)
-        most_probable_img_base64 = base64.b64encode(buf.read()).decode('utf-8')
-        plt.close()
-
         result = {
             "mean_final_value": round(mean_final, 2),
             "median_final_value": round(median_final, 2),
-            "5th_percentile": round(p5, 2),
-            "95th_percentile": round(p95, 2),
+            "low_interval": round(p5, 2),
+            "high_interval": round(p95, 2),
             "probability_of_loss": round(prob_loss, 3),
             "last_value": round(last_value, 2)
         }
         result['paths_plot'] = f"data:image/png;base64,{paths_img_base64}"
         result['histogram'] = f"data:image/png;base64,{hist_img_base64}"
-        result['most_probable_path_plot'] = f"data:image/png;base64,{most_probable_img_base64}"
         
         return jsonify(result)
 
