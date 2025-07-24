@@ -1,5 +1,4 @@
 from flask import Blueprint
-from routes.stocks import stocks_bp
 
 from routes.portfolio import portfolio_bp
 from routes.comparison import comparison_bp
