@@ -17,6 +17,17 @@ Session = sessionmaker(bind=engine)
 CORS(stocks_bp, resources={r"/*": {"origins": "*"}})
 
 
+def is_cache_valid(last_api_called, interval):
+    now = datetime.datetime.now()
+    if interval == 'daily':
+        return (now - last_api_called).total_seconds() < 12 * 3600  # 12 hours
+    elif interval == 'weekly':
+        return (now - last_api_called).days < 6
+    elif interval == 'monthly':
+        return (now - last_api_called).days < 27
+    return False
+
+
 @stocks_bp.route('/<symbol>', methods=["GET"])
 def get_stock_data(symbol):
 
@@ -60,8 +71,7 @@ def get_stock_data(symbol):
             last_api_called_str = data.get("Meta Data", {}).get("6. Last Api Called")
             if last_api_called_str:
                 last_api_called = datetime.datetime.strptime(last_api_called_str, "%Y-%m-%d %H:%M:%S")
-                now = datetime.datetime.now()
-                if (now - last_api_called).total_seconds() < 12 * 3600:
+                if is_cache_valid(last_api_called, interval):
                     print("data returned from appdata")
                     return jsonify(data)
         
@@ -141,8 +151,7 @@ def post_stock_data():
             last_api_called_str = data.get("Meta Data", {}).get("6. Last Api Called")
             if last_api_called_str:
                 last_api_called = datetime.datetime.strptime(last_api_called_str, "%Y-%m-%d %H:%M:%S")
-                now = datetime.datetime.now()
-                if (now - last_api_called).total_seconds() < 12 * 3600:
+                if is_cache_valid(last_api_called, interval):
                     print("data returned from appdata")
                     return jsonify(data)
 
