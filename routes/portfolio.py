@@ -29,7 +29,6 @@ def get_portfolio():
         closing_price_list = []
         second_price_list = []
         
-        
         for p in portfolios:
             appdata_dir = os.path.join(os.path.dirname(__file__), '..', 'appdata')
             os.makedirs(appdata_dir, exist_ok=True)
@@ -40,14 +39,14 @@ def get_portfolio():
             if os.path.exists(filepath):
                 with open(filepath, mode='r', encoding='utf-8') as file:
                     data = json.load(file)
-                # print("data returned from appdata")
+                print("data returned from appdata")
                 # return jsonify(data)
             else:
                 params = {
                     'function': 'TIME_SERIES_DAILY',
                     'symbol': p.stock_name,
                     'apikey': API_KEY,
-                    'outputsize': 'compact'
+                    'outputsize': 'full'
                 }
                 response = requests.get(BASE_URL, params=params)
                 data = response.json()
