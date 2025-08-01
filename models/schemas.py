@@ -19,6 +19,15 @@ class User(Base):
     email: Mapped[str] = mapped_column(String(100), unique=True, nullable=True)
     email_verified: Mapped[datetime.datetime] = mapped_column("email_verified", DateTime(timezone=True), nullable=True)
     image: Mapped[str] = mapped_column(String(255), nullable=True)
+    
+    phone: Mapped[str] = mapped_column(String(20), nullable=True)
+    location: Mapped[str] = mapped_column(String(100), nullable=True)
+    joinDate: Mapped[datetime.datetime] = mapped_column(DateTime(timezone=True), server_default=func.now(), nullable=True)
+    bio: Mapped[str] = mapped_column(String(255), nullable=True)
+    avatar: Mapped[str] = mapped_column(String(255), nullable=True)
+    riskTolerance: Mapped[str] = mapped_column(String(100), nullable=True)
+    investmentGoals: Mapped[str] = mapped_column(String(255), nullable=True)
+    preferredSectors: Mapped[str] = mapped_column(String, nullable=True) 
 
     accounts = relationship("Account", backref="user", cascade="all, delete-orphan")
     sessions = relationship("Session", backref="user", cascade="all, delete-orphan")
@@ -31,6 +40,9 @@ class Portfolio(Base):
     stock_amt: Mapped[int] = mapped_column("stock_Amt", Integer, nullable=False)
     added_at: Mapped[datetime.datetime] = mapped_column(DateTime(timezone=True), server_default=func.now(), nullable=False)
 
+    __table_args__ = (
+        PrimaryKeyConstraint("user_id", "stock_Name"),
+    )
 # class Stocks(Base):
 #     __tablename__ = "stocks"
 
