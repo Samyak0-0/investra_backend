@@ -7,25 +7,28 @@ from dotenv import load_dotenv
 import numpy as np
 import requests
 import pandas as pd
+from flask import jsonify
 
-load_dotenv()  # take environment variables from .env file
+load_dotenv(override=True)  # take environment variables from .env file
 
 API_KEY = os.getenv('API_KEY')
 
 def predict(days, symbol, API_KEY = API_KEY):
-    model = load_model(f"lstm/models/{symbol.upper()}_model.h5")
-    
+    model = load_model(f"models/{symbol.upper()}_model.h5")
     # data = fetch_stock_data(symbol, API_KEY)
     # df = preprocess_data(data)
     # time_step= 100
     # scaler = MinMaxScaler(feature_range=(0, 1))
     # scaled_data = scaler.fit_transform(df.reshape(-1, 1))
 
-    
+
     url = f"https://www.alphavantage.co/query?function=TIME_SERIES_DAILY&symbol={symbol}&outputsize=compact&apikey={API_KEY}"
     r = requests.get(url)
-    data = r.json()["Time Series (Daily)"]
+    data = r.json()
+    if "Time Series (Daily)" not in data:
+        return {"error": f"Invalid response: {data}"}
 
+    data = data["Time Series (Daily)"]
     # Convert to DataFrame
     df = pd.DataFrame(data).T
     df = df.astype(float)
@@ -54,4 +57,6 @@ def predict(days, symbol, API_KEY = API_KEY):
     predicted_prices = scaler.inverse_transform(np.array(predicted_prices).reshape(-1, 1))
 
 
-    return predicted_prices
+    return jsonify(predicted_prices.tolist())
+
+
