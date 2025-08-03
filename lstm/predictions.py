@@ -3,9 +3,10 @@ from tensorflow.keras.models import load_model
 from sklearn.preprocessing import MinMaxScaler
 import os
 from dotenv import load_dotenv
-from lstm.utils import fetch_stock_data, preprocess_data
+# from lstm.utils import fetch_stock_data, preprocess_data
 import numpy as np
-
+import requests
+import pandas as pd
 
 load_dotenv()  # take environment variables from .env file
 
@@ -13,11 +14,27 @@ API_KEY = os.getenv('API_KEY')
 
 def predict(days, symbol, API_KEY = API_KEY):
     model = load_model(f"lstm/models/{symbol.upper()}_model.h5")
-    data = fetch_stock_data(symbol, API_KEY)
-    df = preprocess_data(data)
-    time_step= 100
+    
+    # data = fetch_stock_data(symbol, API_KEY)
+    # df = preprocess_data(data)
+    # time_step= 100
+    # scaler = MinMaxScaler(feature_range=(0, 1))
+    # scaled_data = scaler.fit_transform(df.reshape(-1, 1))
+
+    
+    url = f"https://www.alphavantage.co/query?function=TIME_SERIES_DAILY&symbol={symbol}&outputsize=compact&apikey={API_KEY}"
+    r = requests.get(url)
+    data = r.json()["Time Series (Daily)"]
+
+    # Convert to DataFrame
+    df = pd.DataFrame(data).T
+    df = df.astype(float)
+    df = df.sort_index()  # oldest to newest
+    close_prices = df["4. close"].values
+
+    time_step = 100
     scaler = MinMaxScaler(feature_range=(0, 1))
-    scaled_data = scaler.fit_transform(df.reshape(-1, 1))
+    scaled_data = scaler.fit_transform(close_prices.reshape(-1, 1))
 
     # Last 100 prices for LSTM input
     temp_input = list(scaled_data[-time_step:].flatten())
@@ -38,4 +55,3 @@ def predict(days, symbol, API_KEY = API_KEY):
 
 
     return predicted_prices
-
