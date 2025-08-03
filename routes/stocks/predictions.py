@@ -9,16 +9,12 @@ def predict_stock(symbol):
         days = int(request.args.get("days", 30))  # default 30 days
 
         # Call your LSTM model prediction function
-        predicted_prices = predict(days, symbol.upper())
+        # predicted_prices = predict(days, symbol.upper())
 
-        # Convert np.ndarray → list for JSON
-        prediction_list = predicted_prices.flatten().tolist()
-
-        return jsonify({
-            "symbol": symbol.upper(),
-            "days": days,
-            "predictions": prediction_list
-        })
+        # # Convert np.ndarray → list for JSON
+        # prediction_list = predicted_prices.flatten().tolist()
+        predictions = predict(days, symbol)
+        return predictions 
 
     except Exception as e:
         return jsonify({"error": str(e)}), 500
