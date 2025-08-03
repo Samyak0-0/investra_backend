@@ -13,6 +13,9 @@ from models.database import engine
 
 stocks_bp = Blueprint('stocks', __name__, url_prefix="/stocks")
 
+from routes.stocks.predictions import predictions_bp
+stocks_bp.register_blueprint(predictions_bp)
+
 Session = sessionmaker(bind=engine)
 CORS(stocks_bp, resources={r"/*": {"origins": "*"}})
 
