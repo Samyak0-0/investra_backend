@@ -2,6 +2,7 @@ import pandas as pd
 import numpy as np
 import os
 import requests
+import json
 from sklearn.preprocessing import MinMaxScaler
 
 
@@ -66,6 +67,6 @@ def ensure_stock_data(symbol: str, api_key: str):
     with open(file_path, 'w', encoding='utf-8') as f:
         json.dump(data, f, ensure_ascii=False, indent=2)
 
-    print('[INFO] Data saved to {file_path}')
+    print(f'[INFO] Data saved to {file_path}')
 
     return file_path
