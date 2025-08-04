@@ -14,7 +14,7 @@ load_dotenv(override=True)  # take environment variables from .env file
 API_KEY = os.getenv('API_KEY')
 
 def predict(days, symbol, API_KEY = API_KEY):
-    model = load_model(f"models/{symbol.upper()}_model.h5")
+    model = load_model(f"lstm/models/{symbol.upper()}_model.h5")
     # data = fetch_stock_data(symbol, API_KEY)
     # df = preprocess_data(data)
     # time_step= 100
@@ -57,6 +57,6 @@ def predict(days, symbol, API_KEY = API_KEY):
     predicted_prices = scaler.inverse_transform(np.array(predicted_prices).reshape(-1, 1))
 
 
-    return jsonify(predicted_prices.tolist())
+    return jsonify({"predictions": predicted_prices.flatten().tolist()})
 
 
