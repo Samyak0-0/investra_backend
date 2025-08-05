@@ -1,8 +1,9 @@
 import pandas as pd
 import numpy as np
-
+import os
+import requests
+import json
 from sklearn.preprocessing import MinMaxScaler
-import matplotlib.pyplot as plt
 
 
 def scale_data(df):
@@ -42,3 +43,30 @@ def fetch_stock_data(symbol, api_key):
 def preprocess_data(df):
     data = df['close'].dropna().values
     return data
+
+
+
+def ensure_stock_data(symbol: str, api_key: str):
+    symbol_upper = symbol.upper()
+    appdata_dir = os.path.join(os.path.dirname(__file__),'..','appdata')
+
+    file_path = os.path.join(appdata_dir, f'{symbol_upper}_daily.json')
+
+    if os.path.exists(file_path):
+        print(f"[INFO] Using cached data: {file_path}")
+        return file_path
+    
+    url = (
+        f"https://www.alphavantage.co/query?function=TIME_SERIES_DAILY"
+        f"&symbol={symbol_upper}&apikey={api_key}&output=compact"
+    )
+    print(f'[INFO] Fetching {symbol_upper} data from Alpha Vantage...')
+    response = requests.get(url)
+    data = response.json()
+
+    with open(file_path, 'w', encoding='utf-8') as f:
+        json.dump(data, f, ensure_ascii=False, indent=2)
+
+    print(f'[INFO] Data saved to {file_path}')
+
+    return file_path
