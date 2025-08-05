@@ -56,7 +56,6 @@ def predict(days, symbol, API_KEY = API_KEY):
     
     predicted_prices = scaler.inverse_transform(np.array(predicted_prices).reshape(-1, 1))
 
-
     return jsonify({"predictions": predicted_prices.flatten().tolist()})
 
 

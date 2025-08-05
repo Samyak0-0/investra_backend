@@ -1,0 +1,1306 @@
+{
+    "status": "ok",
+    "totalResults": 22369,
+    "articles": [
+        {
+            "source": {
+                "id": "the-verge",
+                "name": "The Verge"
+            },
+            "author": "Tom Warren",
+            "title": "Microsoft\u00a0will halt new Office features for Windows 10 in 2026",
+            "description": "Microsoft has quietly revealed that it will stop adding new features to Office apps (Microsoft 365) for Windows 10 users in August 2026. While security updates will remain in place for Office apps running on Windows 10 until October 2028, Microsoft will cut o\u2026",
+            "url": "https://www.theverge.com/news/706586/microsoft-365-office-app-features-windows-10-end-of-life-2026",
+            "urlToImage": "https://platform.theverge.com/wp-content/uploads/sites/2/2025/02/STKB334_MICROSOFT_OFFICE_A.jpg?quality=90&strip=all&crop=0%2C10.732984293194%2C100%2C78.534031413613&w=1200",
+            "publishedAt": "2025-07-14T12:37:39Z",
+            "content": "Youll have to upgrade to Windows 11 if you want the latest Microsoft 365 app improvements.\r\nMicrosoft has quietly revealed that it will stop adding new features to Office apps (Microsoft 365) for Win\u2026 [+1398 chars]"
+        },
+        {
+            "source": {
+                "id": "the-verge",
+                "name": "The Verge"
+            },
+            "author": "Tom Warren",
+            "title": "Microsoft Teams now has threaded conversations",
+            "description": "Microsoft has added threaded conversations to its Teams communications app this week. After promising to launch the highly-requested feature in mid-2025, Microsoft is now releasing a public preview of threaded conversations for Teams users to enable. The Micr\u2026",
+            "url": "https://www.theverge.com/news/700917/microsoft-teams-threads-conversations-emoji",
+            "urlToImage": "https://platform.theverge.com/wp-content/uploads/sites/2/chorus/uploads/chorus_asset/file/25357653/STK264_MICROSOFT_TEAMS_V2_CVIRGINIA_D.png?quality=90&strip=all&crop=0%2C10.732984293194%2C100%2C78.534031413613&w=1200",
+            "publishedAt": "2025-07-08T16:04:32Z",
+            "content": "The new threads feature in Teams is available in public preview, alongside improved emoji reactions.\r\nMicrosoft has added threaded conversations to its Teams communications app this week. After promi\u2026 [+1549 chars]"
+        },
+        {
+            "source": {
+                "id": "the-verge",
+                "name": "The Verge"
+            },
+            "author": "Tom Warren",
+            "title": "Opera is filing a complaint against Microsoft\u2019s tricks that push you to use Edge",
+            "description": "Microsoft has used a\u00a0variety of tricks\u00a0to convince people to keep using the defaults of Bing and Microsoft Edge in Windows over the years, including modifying Chrome\u00a0download sites and using\u00a0malware-like popups. Now, Opera is fed up with what it calls Microso\u2026",
+            "url": "https://www.theverge.com/news/715082/opera-microsoft-competition-complaint-edge-windows-tricks",
+            "urlToImage": "https://platform.theverge.com/wp-content/uploads/sites/2/2025/07/STK148_Microsoft_Edge_2.jpg?quality=90&strip=all&crop=0%2C10.732984293194%2C100%2C78.534031413613&w=1200",
+            "publishedAt": "2025-07-29T20:20:27Z",
+            "content": "<ul><li></li><li></li><li></li></ul>\r\nOpera has filed its anti-competition complaint in Brazil and says Microsoft is using manipulative design tactics.\r\nOpera has filed its anti-competition complaint\u2026 [+5372 chars]"
+        },
+        {
+            "source": {
+                "id": "the-verge",
+                "name": "The Verge"
+            },
+            "author": "Tom Warren",
+            "title": "Microsoft\u00a0suddenly kills its movies and TV store on\u00a0Xbox\u00a0and Windows",
+            "description": "Microsoft has suddenly shut its movies and TV store on Xbox consoles and Windows PCs. As of today you can no longer purchase new movies or TV shows from the Microsoft Store on Xbox or Windows, but you will still be able to access previously purchased content \u2026",
+            "url": "https://www.theverge.com/news/709737/microsoft-movies-tv-store-closure-xbox-windows",
+            "urlToImage": "https://platform.theverge.com/wp-content/uploads/sites/2/chorus/uploads/chorus_asset/file/23926022/acastro_STK048_01.jpg?quality=90&strip=all&crop=0%2C10.732984293194%2C100%2C78.534031413613&w=1200",
+            "publishedAt": "2025-07-18T15:23:03Z",
+            "content": "Youll still be able to access content you already own, but you wont be able to buy and new movies or TV shows.\r\nMicrosoft has suddenly shut its movies and TV store on Xbox consoles and Windows PCs. A\u2026 [+1317 chars]"
+        },
+        {
+            "source": {
+                "id": "the-verge",
+                "name": "The Verge"
+            },
+            "author": "Tom Warren",
+            "title": "Microsoft starts rolling out Xbox age verification in the UK",
+            "description": "Microsoft is starting to comply with the UK\u2019s Online Safety Act by prompting Xbox players to verify their age today. The prompts will be shown to Xbox players who indicate they\u2019re over the age of 18 and will be shown when you sign into an Xbox account in the \u2026",
+            "url": "https://www.theverge.com/news/714458/microsoft-xbox-age-verification-uk-social-features",
+            "urlToImage": "https://platform.theverge.com/wp-content/uploads/sites/2/chorus/uploads/chorus_asset/file/25485118/STK048_XBOX2__C.png?quality=90&strip=all&crop=0%2C10.732984293194%2C100%2C78.534031413613&w=1200",
+            "publishedAt": "2025-07-28T17:31:15Z",
+            "content": "<ul><li></li><li></li><li></li></ul>\r\nYoull need to verify your age in the UK to keep accessing Xbox social features.\r\nYoull need to verify your age in the UK to keep accessing Xbox social features.\r\u2026 [+3571 chars]"
+        },
+        {
+            "source": {
+                "id": "the-verge",
+                "name": "The Verge"
+            },
+            "author": "Tom Warren",
+            "title": "US nuclear weapons agency reportedly breached in Microsoft SharePoint attacks",
+            "description": "Hours after Microsoft revealed hacking groups affiliated with the Chinese government have been exploiting a flaw in its SharePoint software, Bloomberg News reports that the National Nuclear Security Administration has also been breached in the attacks. A sing\u2026",
+            "url": "https://www.theverge.com/news/712080/microsoft-sharepoint-hack-us-nuclear-weapons-agency",
+            "urlToImage": "https://platform.theverge.com/wp-content/uploads/sites/2/2025/07/gettyimages-2225682788.jpg?quality=90&strip=all&crop=0%2C10.729792631346%2C100%2C78.540414737307&w=1200",
+            "publishedAt": "2025-07-23T08:24:26Z",
+            "content": "<ul><li></li><li></li><li></li></ul>\r\nThe SharePoint zero-day attacks have affected more than 50 organizations.\r\nThe SharePoint zero-day attacks have affected more than 50 organizations.\r\nby\r\nTom War\u2026 [+2627 chars]"
+        },
+        {
+            "source": {
+                "id": "the-verge",
+                "name": "The Verge"
+            },
+            "author": "Tom Warren",
+            "title": "The Outer Worlds 2 will no longer be one of Microsoft\u2019s first $80 Xbox games",
+            "description": "Microsoft-owned developer Obsidian Entertainment is announcing a price drop for the The Outer Worlds 2 today. The game was originally supposed to debut at $79.99 in October, but it\u2019s now going back to the regular $69.99 Xbox game price. Microsoft announced ea\u2026",
+            "url": "https://www.theverge.com/news/712371/the-outer-worlds-2-price-change-microsoft-xbox",
+            "urlToImage": "https://platform.theverge.com/wp-content/uploads/sites/2/2025/07/outerworlds2.jpg?quality=90&strip=all&crop=0%2C3.4613147178592%2C100%2C93.077370564282&w=1200",
+            "publishedAt": "2025-07-23T15:20:33Z",
+            "content": "Microsoft-owned developer Obsidian Entertainment is announcing a price drop for the The Outer Worlds 2 today. The game was originally supposed to debut at $79.99 in October, but it\u2019s now going back t\u2026 [+732 chars]"
+        },
+        {
+            "source": {
+                "id": "the-verge",
+                "name": "The Verge"
+            },
+            "author": "Tom Warren",
+            "title": "Microsoft reports strong cloud earnings, with Windows and Xbox up too",
+            "description": "Microsoft\u00a0just posted\u00a0the fourth and final quarter of its 2025 fiscal financial results. The software maker made $76.4 billion in revenue and a net income of $27.2 billion during Q4. Revenue is up 18 percent, and net income has increased by 24 percent. Like c\u2026",
+            "url": "https://www.theverge.com/news/716191/microsoft-q4-2025-earnings-revenue-profits-windows-xbox-gaming-surface",
+            "urlToImage": "https://platform.theverge.com/wp-content/uploads/sites/2/2025/01/STK095_MICROSOFT_STOCKS_CVirginia_D.jpg?quality=90&strip=all&crop=0%2C10.732984293194%2C100%2C78.534031413613&w=1200",
+            "publishedAt": "2025-07-30T20:22:20Z",
+            "content": "<ul><li></li><li></li><li></li></ul>\r\nAzure revenues grew 39 percent year-over-year, as Microsoft continues to grow its cloud business.\r\nAzure revenues grew 39 percent year-over-year, as Microsoft co\u2026 [+5708 chars]"
+        },
+        {
+            "source": {
+                "id": "wired",
+                "name": "Wired"
+            },
+            "author": "Lily Hay Newman",
+            "title": "Microsoft Put Older Versions of SharePoint on Life Support. Hackers Are Taking Advantage",
+            "description": "Multiple hacking groups\u2014including state actors from China\u2014have targeted a vulnerability in older, on-premises versions of the file-sharing tool after a flawed attempt to patch it.",
+            "url": "https://www.wired.com/story/microsoft-sharepoint-hack-china-end-of-life-updates/",
+            "urlToImage": "https://media.wired.com/photos/687febfe799eda52cce2ebde/191:100/w_1280,c_limit/Microsoft-Sharepoint-Hacks-Reveals-Race-to-The-Bottom-Security-2225634274.jpg",
+            "publishedAt": "2025-07-23T21:59:20Z",
+            "content": "Hundreds of organizations around the world suffered data breaches this week, as an array of hackers rushed to exploit a recently discovered vulnerability in older versions of the Microsoft file-shari\u2026 [+3269 chars]"
+        },
+        {
+            "source": {
+                "id": "wired",
+                "name": "Wired"
+            },
+            "author": "Andrew Cunningham, Ars Technica",
+            "title": "Still Using Windows 10? Here's How to Get Another Year of Updates for Free",
+            "description": "If you're not ready to upgrade, you can still get security updates until October 2026 by enrolling in Microsoft's ESU program.",
+            "url": "https://www.wired.com/story/still-using-windows-10-heres-how-to-get-another-year-of-updates-for-free/",
+            "urlToImage": "https://media.wired.com/photos/688b97d700f13e7926de803f/191:100/w_1280,c_limit/Ars-Windows-10-Gear-1237969502.jpg",
+            "publishedAt": "2025-07-31T18:15:00Z",
+            "content": "Of these, the Backup app is the most painless; it backs up some saved credentials, some Windows settings, and some Windows apps to your account. It can also back up folders you specify, if your accou\u2026 [+2520 chars]"
+        },
+        {
+            "source": {
+                "id": "the-verge",
+                "name": "The Verge"
+            },
+            "author": "Tom Warren",
+            "title": "Microsoft is getting ready for GPT-5 with a new Copilot smart mode",
+            "description": "I reported last week that OpenAI is planning to launch GPT-5 in early August, as part of an effort to simplify and combine its large language models. Just a day after my report, references to GPT-5 were spotted inside Microsoft's Copilot web app, hinting at a\u2026",
+            "url": "https://www.theverge.com/notepad-microsoft-newsletter/715849/microsoft-copilot-smart-mode-testing-notepad",
+            "urlToImage": "https://platform.theverge.com/wp-content/uploads/sites/2/2025/07/copilotsmartmode.jpg?quality=90&strip=all&crop=0%2C10.732984293194%2C100%2C78.534031413613&w=1200",
+            "publishedAt": "2025-07-30T14:15:59Z",
+            "content": "<ul><li></li><li></li><li></li></ul>\r\nMicrosoft is secretly testing new Copilot improvements internally.\r\nMicrosoft is secretly testing new Copilot improvements internally.\r\nby\r\nTom WarrenClose\r\nTom \u2026 [+11511 chars]"
+        },
+        {
+            "source": {
+                "id": "the-verge",
+                "name": "The Verge"
+            },
+            "author": "Tom Warren",
+            "title": "Microsoft\u00a0is killing off Windows 11 SE, its Chrome OS competitor",
+            "description": "Microsoft is ending support for Windows 11 SE next year, five years after it launched the operating system on low-cost laptops that were designed to compete with Google Chromebooks. Windows 11 SE was only available on devices for education customers, such as \u2026",
+            "url": "https://www.theverge.com/news/717253/microsoft-windows-11-se-chrome-os-competitor-end-of-support",
+            "urlToImage": "https://platform.theverge.com/wp-content/uploads/sites/2/2025/08/windows11se.jpg?quality=90&strip=all&crop=0%2C10.732984293194%2C100%2C78.534031413613&w=1200",
+            "publishedAt": "2025-08-01T12:22:53Z",
+            "content": "<ul><li></li><li></li><li></li></ul>\r\nMicrosoft isnt chasing after Chromebooks anymore, as demand tails off.\r\nMicrosoft isnt chasing after Chromebooks anymore, as demand tails off.\r\nby\r\nTom WarrenClo\u2026 [+2820 chars]"
+        },
+        {
+            "source": {
+                "id": "the-verge",
+                "name": "The Verge"
+            },
+            "author": "Tom Warren",
+            "title": "Windows 11 has finally overtaken Windows 10 as the most used desktop OS",
+            "description": "Microsoft has finally crossed an important milestone for Windows 11, months ahead of Windows 10\u2019s end of support cutoff date. Stat Counter, spotted by Windows Central, now lists Windows 11 as the most used desktop operating system nearly four years after its \u2026",
+            "url": "https://www.theverge.com/news/699161/microsoft-windows-11-usage-milestone-windows-10",
+            "urlToImage": "https://platform.theverge.com/wp-content/uploads/sites/2/2025/02/STK109_WINDOWS_C.jpg?quality=90&strip=all&crop=0%2C10.732984293194%2C100%2C78.534031413613&w=1200",
+            "publishedAt": "2025-07-07T10:39:01Z",
+            "content": "Windows 11 is now more widely used than Windows 10, nearly four years after its release.\r\nMicrosoft has finally crossed an important milestone for Windows 11, months ahead of Windows 10s end of suppo\u2026 [+1358 chars]"
+        },
+        {
+            "source": {
+                "id": "the-verge",
+                "name": "The Verge"
+            },
+            "author": "Andrew Liszewski",
+            "title": "Microsoft\u2019s Edge browser now loads sites even faster",
+            "description": "In a new post shared to its Windows blog, Microsoft says that it has \u201creached a major milestone\u201d when it comes to improving the speed of Edge\u2019s user interface. It now takes Microsoft\u2019s browser less than 300 milliseconds to start rendering the first parts of a\u2026",
+            "url": "https://www.theverge.com/news/699783/microsoft-edge-browser-speed-rendering",
+            "urlToImage": "https://platform.theverge.com/wp-content/uploads/sites/2/chorus/uploads/chorus_asset/file/24385268/STK148_Microsoft_Edge_1.jpg?quality=90&strip=all&crop=0%2C10.732984293194%2C100%2C78.534031413613&w=1200",
+            "publishedAt": "2025-07-07T21:14:31Z",
+            "content": "The company says its improved the responsiveness of several Edge features, including its settings page.\r\nIn a new post shared to its Windows blog, Microsoft says that it has reached a major milestone\u2026 [+2009 chars]"
+        },
+        {
+            "source": {
+                "id": "the-verge",
+                "name": "The Verge"
+            },
+            "author": "Tom Warren",
+            "title": "Microsoft Edge transforms into an AI browser with new Copilot Mode",
+            "description": "Microsoft is starting to test a new experimental Copilot Mode inside its Edge browser today. The AI-powered mode allows Copilot to search across all your open tabs and handle tasks like booking a restaurant, and it brings the Copilot chatbot to your new tab p\u2026",
+            "url": "https://www.theverge.com/news/714435/microsoft-edge-copilot-mode-ai-features",
+            "urlToImage": "https://platform.theverge.com/wp-content/uploads/sites/2/2025/07/Blog-Hero.png?quality=90&strip=all&crop=1.20546875%2C0%2C97.5890625%2C100&w=1200",
+            "publishedAt": "2025-07-28T17:01:09Z",
+            "content": "<ul><li></li><li></li><li></li></ul>\r\nCopilot Mode can search across all your open tabs, handle restaurant bookings, and more.\r\nCopilot Mode can search across all your open tabs, handle restaurant bo\u2026 [+3098 chars]"
+        },
+        {
+            "source": {
+                "id": "wired",
+                "name": "Wired"
+            },
+            "author": "David Nield",
+            "title": "What Happens to Your Data If You Stop Paying for Cloud Storage?",
+            "description": "Hit by subscription fatigue? Here\u2019s what happens to your files and photos if you cancel your paid storage plan.",
+            "url": "https://www.wired.com/story/what-happens-to-your-data-if-you-stop-paying-for-cloud-storage/",
+            "urlToImage": "https://media.wired.com/photos/6887e5513ae3db1cc4b9a48d/191:100/w_1280,c_limit/cloud-storage-delete-gear-840464884-1400133161.jpg",
+            "publishedAt": "2025-08-03T11:30:00Z",
+            "content": "You get 5 GB of OneDrive cloud storage space for free with a Microsoft account, and if you cancel your subscription, that's what you go back to. As per Microsoft, as long as you're over that limit an\u2026 [+2102 chars]"
+        },
+        {
+            "source": {
+                "id": null,
+                "name": "Gizmodo.com"
+            },
+            "author": "Kyle Barr",
+            "title": "Microsoft Needs to Make Affordable 5G Surface Laptops a Reality",
+            "description": "People other than rich execs need quality cellular connectivity built into laptops too.",
+            "url": "https://gizmodo.com/microsoft-needs-to-make-affordable-5g-surface-laptops-a-reality-2000637802",
+            "urlToImage": "https://gizmodo.com/app/uploads/2025/08/New-Surface-Laptop-5G-for-Business-Copilot-PC-1200x675.jpg",
+            "publishedAt": "2025-08-01T15:20:14Z",
+            "content": "Microsoft didnt launch its 2025 lineup of Surface devices with a 5G option. Instead, it waited a few months for interest to die down enough to release its business-end version with a starting price n\u2026 [+3656 chars]"
+        },
+        {
+            "source": {
+                "id": "the-verge",
+                "name": "The Verge"
+            },
+            "author": "Jess Weatherbed",
+            "title": "Microsoft SharePoint servers are under attack because of a major security flaw",
+            "description": "Hackers have exploited vulnerabilities in Microsoft\u2019s SharePoint software, placing tens of thousands of on-premises servers used by global businesses and agencies at risk. Microsoft issued an alert on Saturday disclosing that it was aware of \u201cactive attacks,\u201d\u2026",
+            "url": "https://www.theverge.com/news/710513/microsoft-sharepoint-server-attack-zero-day-exploit",
+            "urlToImage": "https://platform.theverge.com/wp-content/uploads/sites/2/2025/04/akrales_220309_4977_0232.jpg?quality=90&strip=all&crop=0%2C10.732984293194%2C100%2C78.534031413613&w=1200",
+            "publishedAt": "2025-07-21T09:01:03Z",
+            "content": "Government agencies and thousands of companies could be affected by the zero-day breach.\r\nHackers have exploited vulnerabilities in Microsofts SharePoint software, placing tens of thousands of on-pre\u2026 [+1713 chars]"
+        },
+        {
+            "source": {
+                "id": "the-verge",
+                "name": "The Verge"
+            },
+            "author": "Tom Warren",
+            "title": "Mercedes-Benz will let you use an in-car camera in Microsoft Teams while driving",
+            "description": "I like to drive without the distractions of my work life interrupting me, but if you\u2019re eager to stay connected then Mercedes-Benz is ready. You\u2019ll soon be able to join a Microsoft Teams call in some Mercedes\u2011Benz vehicles and use the in-car camera to chat wi\u2026",
+            "url": "https://www.theverge.com/news/708481/microsoft-teams-mercedes-benz-integration-in-car-camera-support",
+            "urlToImage": "https://platform.theverge.com/wp-content/uploads/sites/2/2025/07/3_2_1024.jpeg?quality=90&strip=all&crop=0,10.75214828329,100,78.49570343342",
+            "publishedAt": "2025-07-16T18:46:47Z",
+            "content": "Youll be able to let everyone at work know youre working really hard while driving along.\r\nI like to drive without the distractions of my work life interrupting me, but if youre eager to stay connect\u2026 [+1990 chars]"
+        },
+        {
+            "source": {
+                "id": "the-verge",
+                "name": "The Verge"
+            },
+            "author": "Tom Warren",
+            "title": "8BitDo\u2019s first wireless Xbox controller is a surprise Rare collaboration",
+            "description": "8BitDo has created its first wireless Xbox controller in partnership with Rare, a game studio acquired by Microsoft. The officially licensed controller features a gold and blue design, with plenty of Easter eggs to celebrate Rare\u2019s 40th anniversary. The $89.9\u2026",
+            "url": "https://www.theverge.com/news/717994/8bitdo-wireless-xbox-controller-rare-40th-anniversary-edition",
+            "urlToImage": "https://platform.theverge.com/wp-content/uploads/sites/2/2025/08/Hero-Ultimate-3-mode-Controller-for-Xbox-Rare-40th-Anniversary-Edition-1.jpg?quality=90&strip=all&crop=0%2C10.76363770124%2C100%2C78.472724597521&w=1200",
+            "publishedAt": "2025-08-04T13:02:37Z",
+            "content": "<ul><li></li><li></li><li></li></ul>\r\nRare has teamed up with 8BitDo, not Microsoft, for a special edition Xbox controller.\r\nRare has teamed up with 8BitDo, not Microsoft, for a special edition Xbox \u2026 [+3523 chars]"
+        },
+        {
+            "source": {
+                "id": "the-verge",
+                "name": "The Verge"
+            },
+            "author": "Emma Roth",
+            "title": "Windows 11\u2019s new update will add a bunch of AI features",
+            "description": "Microsoft is releasing several new AI features for Windows 11, including its Copilot Vision tool that can scan everything on your screen. The features, which are gradually rolling out to everyone now, also include tools that are exclusive to Copilot Plus PCs.\u2026",
+            "url": "https://www.theverge.com/news/711797/windows-11-microsoft-ai-features-copilot-vision-launch",
+            "urlToImage": "https://platform.theverge.com/wp-content/uploads/sites/2/2025/07/copilot-vision-microsoft.jpg?quality=90&strip=all&crop=0%2C8.1151832460733%2C100%2C83.769633507853&w=1200",
+            "publishedAt": "2025-07-22T20:41:08Z",
+            "content": "<ul><li></li><li></li><li></li></ul>\r\nMicrosofts screen-scanning Copilot Vision is coming to all Windows 11 PCs.\r\nMicrosofts screen-scanning Copilot Vision is coming to all Windows 11 PCs.\r\nby\r\nEmma \u2026 [+3741 chars]"
+        },
+        {
+            "source": {
+                "id": "the-verge",
+                "name": "The Verge"
+            },
+            "author": "Tom Warren",
+            "title": "Xbox cloud games will soon follow you across Xbox, PC, and Windows handhelds",
+            "description": "Microsoft is starting to test updates to the Xbox PC app and Xbox consoles that will allow cloud games to follow you across devices. A new play history section of the Xbox PC app and Xbox console home UI will display cloud games as part of the recently played\u2026",
+            "url": "https://www.theverge.com/news/710764/xbox-cloud-gaming-roaming-pc-console-play-history-feature",
+            "urlToImage": "https://platform.theverge.com/wp-content/uploads/sites/2/2025/07/July-Wire-MRUEcosystemView-f73af609df5d809aebb5.png?quality=90&strip=all&crop=0%2C3.4613147178592%2C100%2C93.077370564282&w=1200",
+            "publishedAt": "2025-07-21T15:33:23Z",
+            "content": "Xbox Cloud Gaming is getting cross-device play history and more.\r\nMicrosoft is starting to test updates to the Xbox PC app and Xbox consoles that will allow cloud games to follow you across devices. \u2026 [+1848 chars]"
+        },
+        {
+            "source": {
+                "id": "wired",
+                "name": "Wired"
+            },
+            "author": "Paresh Dave",
+            "title": "Microsoft, OpenAI, and a US Teachers\u2019 Union Are Hatching a Plan to \u2018Bring AI into the Classroom\u2019",
+            "description": "The National Academy for AI Instruction will make artificial intelligence training accessible to educators across the country, according to leaked details.",
+            "url": "https://www.wired.com/story/microsoft-openai-and-a-us-teachers-union-are-hatching-a-plan-to-bring-ai-into-the-classroom/",
+            "urlToImage": "https://media.wired.com/photos/686cf3640aa10adb78d4ecce/191:100/w_1280,c_limit/GettyImages-2140836981.jpg",
+            "publishedAt": "2025-07-08T11:30:08Z",
+            "content": "Microsoft and OpenAI are planning to announce Tuesday that they are helping to launch an AI training center for members of the second-largest teachers union in the US, according to details about the \u2026 [+3552 chars]"
+        },
+        {
+            "source": {
+                "id": "the-verge",
+                "name": "The Verge"
+            },
+            "author": "Dominic Preston",
+            "title": "Activision pulls Call of Duty game after PC players are hacked",
+            "description": "Activision has taken one of its Call of Duty games down from the Microsoft Store and PC version of Game Pass, reportedly because multiple PC players had their computers compromised by hackers after playing the title. The publisher announced that 2017 shooter \u2026",
+            "url": "https://www.theverge.com/news/702255/call-of-duty-wwii-pc-game-pass-hacking-activision",
+            "urlToImage": "https://platform.theverge.com/wp-content/uploads/sites/2/chorus/uploads/chorus_asset/file/8675643/Screen_Shot_2017_06_12_at_6.37.06_PM.png?quality=90&strip=all&crop=0%2C0%2C100%2C96.60530315825&w=1200",
+            "publishedAt": "2025-07-09T09:31:48Z",
+            "content": "Call of Duty: WWII is currently unavailable through the Microsoft Store. | Image: Activision\r\n\n\nActivision has taken one of its Call of Duty games down from the Microsoft Store and PC version of Game\u2026 [+1342 chars]"
+        },
+        {
+            "source": {
+                "id": "the-verge",
+                "name": "The Verge"
+            },
+            "author": "Tom Warren",
+            "title": "Microsoft\u2019s controversial Recall feature is now blocked by Brave and AdGuard",
+            "description": "Microsoft\u2019s controversial Recall feature, that automatically screenshots nearly everything on a Copilot Plus PC, is meeting resistance from app developers. Signal kicked off a trend of blocking Recall earlier this year, with AdGuard and the Brave browser now \u2026",
+            "url": "https://www.theverge.com/news/713676/brave-adguard-windows-recall-block-microsoft",
+            "urlToImage": "https://platform.theverge.com/wp-content/uploads/sites/2/chorus/uploads/chorus_asset/file/25481481/windowsrecall.jpg?quality=90&strip=all&crop=0%2C10.732984293194%2C100%2C78.534031413613&w=1200",
+            "publishedAt": "2025-07-25T11:34:36Z",
+            "content": "<ul><li></li><li></li><li></li></ul>\r\nBrave and AdGuard are both following Signals lead in blocking Microsofts AI tool.\r\nBrave and AdGuard are both following Signals lead in blocking Microsofts AI to\u2026 [+3100 chars]"
+        },
+        {
+            "source": {
+                "id": "the-verge",
+                "name": "The Verge"
+            },
+            "author": "Cameron Faulkner",
+            "title": "The original Pixel Fold is over $1,000 off on the last day of Prime Day",
+            "description": "Not enough foldable phones are priced for people who just want to try them out without going broke. We used to love pointing readers to deals on the Microsoft Surface Duo, which have since gone extinct, it seems. And, the new Samsung Galaxy Z Flip FE? $900 is\u2026",
+            "url": "https://www.theverge.com/tech/705211/google-pixel-fold-prime-day-deal-sale-foldable",
+            "urlToImage": "https://platform.theverge.com/wp-content/uploads/sites/2/chorus/uploads/chorus_asset/file/24751381/DSCF2034_2.jpg?quality=90&strip=all&crop=0%2C10.732984293194%2C100%2C78.534031413613&w=1200",
+            "publishedAt": "2025-07-11T13:37:40Z",
+            "content": "Not enough foldable phones are priced for people who just want to try them out without going broke. We used to love pointing readers to deals on the Microsoft Surface Duo, which have since gone extin\u2026 [+1656 chars]"
+        },
+        {
+            "source": {
+                "id": "the-verge",
+                "name": "The Verge"
+            },
+            "author": "Adi Robertson",
+            "title": "A Republican state attorney general is formally investigating why AI chatbots don\u2019t like Donald Trump",
+            "description": "Missouri Attorney General Andrew Bailey is threatening Google, Microsoft, OpenAI, and Meta with a deceptive business practices claim because their AI chatbots allegedly listed Donald Trump last on a request to \u201crank the last five presidents from best to worst\u2026",
+            "url": "https://www.theverge.com/news/704851/missouri-ag-andrew-bailey-investigation-ai-chatbots-trump-ranking",
+            "urlToImage": "https://platform.theverge.com/wp-content/uploads/sites/2/2025/07/gettyimages-2186528697.jpg?quality=90&strip=all&crop=0%2C10.737104219299%2C100%2C78.525791561403&w=1200",
+            "publishedAt": "2025-07-10T23:50:07Z",
+            "content": "Missouris AG is barely even trying to pretend this isnt censorship.\r\nMissouri Attorney General Andrew Bailey is threatening Google, Microsoft, OpenAI, and Meta with a deceptive business practices cla\u2026 [+3370 chars]"
+        },
+        {
+            "source": {
+                "id": "the-verge",
+                "name": "The Verge"
+            },
+            "author": "Andrew Liszewski",
+            "title": "The Pro 3 is 8BitDo\u2019s first controller with swappable buttons",
+            "description": "8BitDo has released a new version of its wireless Pro controller that was last updated in 2021. Many of 8BitDo\u2019s recent controller releases, including the Ultimate 2, feature an asymmetrical joystick layout like Nintendo and Microsoft use. But the new Pro 3 m\u2026",
+            "url": "https://www.theverge.com/news/706967/8bitdo-pro-3-wireless-bluetooth-controller-tmr-swappable-buttons",
+            "urlToImage": "https://platform.theverge.com/wp-content/uploads/sites/2/2025/07/8bitdopro3_1.jpg?quality=90&strip=all&crop=0%2C10.76363770124%2C100%2C78.472724597521&w=1200",
+            "publishedAt": "2025-07-15T15:01:45Z",
+            "content": "You can rearrange the Pro 3s magnetic buttons between Xbox and Switch layouts.\r\nYou can rearrange the Pro 3s magnetic buttons between Xbox and Switch layouts.\r\n8BitDo has released a new version of it\u2026 [+2382 chars]"
+        },
+        {
+            "source": {
+                "id": "wired",
+                "name": "Wired"
+            },
+            "author": "Paresh Dave",
+            "title": "Trump\u2019s Defiance of TikTok Ban Prompted Immunity Promises to 10 Tech Companies",
+            "description": "Newly disclosed records show Attorney General Pam Bondi gave cover to not only Apple and Google, but also several other companies that help TikTok operate in the US.",
+            "url": "https://www.wired.com/story/pam-bondi-trump-tiktok-letters-google-apple-microsoft/",
+            "urlToImage": "https://media.wired.com/photos/6866f3a28d6264efbede3761/191:100/w_1280,c_limit/pam-bondi-tiktok-biz-2221351537.jpg",
+            "publishedAt": "2025-07-03T21:48:41Z",
+            "content": "US attorney general Pam Bondi has told at least 10 tech companies, including Apple, Microsoft, Amazon, and Google, that they have incurred no liability for supporting TikTok despite the federal ban o\u2026 [+3562 chars]"
+        },
+        {
+            "source": {
+                "id": null,
+                "name": "Gizmodo.com"
+            },
+            "author": "AJ Dellinger",
+            "title": "OpenAI Is Eating Microsoft\u2019s Lunch",
+            "description": "Copilot is getting kicked out of the cockpit.",
+            "url": "https://gizmodo.com/openai-is-eating-microsofts-lunch-2000630194",
+            "urlToImage": "https://gizmodo.com/app/uploads/2025/07/GettyImages-2153471300-1200x675.jpg",
+            "publishedAt": "2025-07-16T19:20:44Z",
+            "content": "Microsoft has somehow managed to have another Cortana moment. Despite its AI assistant, Copilot, being built into Windows machines and compatible with the Microsoft 365 ecosystem that millions of peo\u2026 [+2393 chars]"
+        },
+        {
+            "source": {
+                "id": null,
+                "name": "MacRumors"
+            },
+            "author": "Juli Clover",
+            "title": "macOS Spotlight Vulnerability Discovered by Microsoft",
+            "description": "Microsoft Threat Intelligence found a Spotlight-related vulnerability that could allow attackers to steal private file data, outlining the issue in a blog post today. Microsoft's threat team is calling the exploit \"Sploitlight\" because it uses Spotlight plugi\u2026",
+            "url": "https://www.macrumors.com/2025/07/28/microsoft-macos-spotlight-vulnerability/",
+            "urlToImage": "https://images.macrumors.com/t/FWFeAmxnHKf7vkk_MCBh9TcNMVg=/1600x/article-new/2023/05/bug-security-vulnerability-issue-fix-larry.jpg",
+            "publishedAt": "2025-07-28T16:32:31Z",
+            "content": "Microsoft Threat Intelligence found a Spotlight-related vulnerability that could allow attackers to steal private file data, outlining the issue in a blog post today. Microsoft's threat team is calli\u2026 [+1376 chars]"
+        },
+        {
+            "source": {
+                "id": null,
+                "name": "Slashdot.org"
+            },
+            "author": "msmash",
+            "title": "Microsoft Adds Copilot Mode To Edge",
+            "description": "Microsoft today launched Copilot Mode, an experimental feature that transforms Edge into an AI-powered browser experience. Available free for a limited time on Windows and Mac in markets where Copilot operates, the mode places AI at the center of web browsing\u2026",
+            "url": "https://slashdot.org/story/25/07/28/1812229/microsoft-adds-copilot-mode-to-edge",
+            "urlToImage": "https://a.fsdn.com/sd/topics/microsoft_64100.png",
+            "publishedAt": "2025-07-28T18:12:00Z",
+            "content": "Microsoft today launched Copilot Mode, an experimental feature that transforms Edge into an AI-powered browser experience. Available free for a limited time on Windows and Mac in markets where Copilo\u2026 [+516 chars]"
+        },
+        {
+            "source": {
+                "id": null,
+                "name": "Slashdot.org"
+            },
+            "author": "msmash",
+            "title": "Internal Microsoft Documents Detail Pay Scales",
+            "description": "Microsoft's internal pay guidelines show exactly how much the company will pay new engineering hires, according to documents obtained by Business Insider. The guidelines, updated in May, break down salary ranges, stock awards, and bonuses for every level from\u2026",
+            "url": "https://news.slashdot.org/story/25/07/31/1652242/internal-microsoft-documents-detail-pay-scales",
+            "urlToImage": "https://a.fsdn.com/sd/topics/microsoft_64100.png",
+            "publishedAt": "2025-07-31T17:20:00Z",
+            "content": "Microsoft's internal pay guidelines show exactly how much the company will pay new engineering hires, according to documents obtained by Business Insider. The guidelines, updated in May, break down s\u2026 [+1284 chars]"
+        },
+        {
+            "source": {
+                "id": null,
+                "name": "CNET"
+            },
+            "author": "Dashia Milden",
+            "title": "Microsoft Will Erase Your Passwords on Aug.1: Do This ASAP",
+            "description": "If Microsoft Authenticator is your password manager, you're running out of time to move your passwords.",
+            "url": "https://www.cnet.com/tech/microsoft-will-erase-your-passwords-on-aug-1-do-this-asap/",
+            "urlToImage": "https://www.cnet.com/a/img/resize/ba6cb5d2e0fe442bbcf800c794b4ceb426632b49/hub/2025/06/18/2fdc8606-3277-40bb-9392-ebc6fe4e994b/gettyimages-1296451468.jpg?auto=webp&fit=crop&height=675&width=1200",
+            "publishedAt": "2025-07-21T18:30:00Z",
+            "content": "As of Aug. 1, Microsoft will be deleting passwords from its Authenticator app. This means that passwords stored there will no longer be accessible, which could be a problem for a lot of users.\u00a0\r\nMicr\u2026 [+4429 chars]"
+        },
+        {
+            "source": {
+                "id": "the-verge",
+                "name": "The Verge"
+            },
+            "author": "Tom Warren",
+            "title": "Maingear\u2019s Retro95 combines \u201990s-era PC design with modern specs",
+            "description": "Maingear is launching a \u201990s-era horizontal desktop with modern components inside. The Retro95 is a beige sleeper build and is for anyone who is nostalgic for the days of Windows 95, floppy discs, dial-up internet, and LAN parties. The Retro95 is a prebuilt, \u2026",
+            "url": "https://www.theverge.com/news/712101/maingear-retro95-sleeper-pc-gaming-specs-pricing",
+            "urlToImage": "https://platform.theverge.com/wp-content/uploads/sites/2/2025/07/RetroDesk_V01.png?quality=90&strip=all&crop=0%2C3.4613147178592%2C100%2C93.077370564282&w=1200",
+            "publishedAt": "2025-07-23T12:35:43Z",
+            "content": "<ul><li></li><li></li><li></li></ul>\r\nA prebuilt sleeper PC for those who miss CRTs and swapping out disks in the middle of games.\r\nA prebuilt sleeper PC for those who miss CRTs and swapping out disk\u2026 [+2649 chars]"
+        },
+        {
+            "source": {
+                "id": "the-verge",
+                "name": "The Verge"
+            },
+            "author": "Tom Warren",
+            "title": "Adobe releases Windows on Arm versions of Premiere Pro and After Effects",
+            "description": "Adobe is finally releasing Windows on Arm versions of Premiere Pro, After Effects, Audition, and Media Encoder this week. All four apps are available as public beta versions, but they do lack some features or have some known issues compared to the versions av\u2026",
+            "url": "https://www.theverge.com/news/715769/adobe-windows-on-arm-premiere-pro-after-effects-beta-release",
+            "urlToImage": "https://platform.theverge.com/wp-content/uploads/sites/2/2025/02/26ud9N4TvdWwra8lXJd7KK2O2NlgIQHmShp5zbBz8Ao.jpeg?quality=90&strip=all&crop=0%2C10.732984293194%2C100%2C78.534031413613&w=1200",
+            "publishedAt": "2025-07-30T13:03:20Z",
+            "content": "<ul><li></li><li></li><li></li></ul>\r\nBeta versions are now available to download, but theyre missing some features.\r\nBeta versions are now available to download, but theyre missing some features.\r\nb\u2026 [+3263 chars]"
+        },
+        {
+            "source": {
+                "id": null,
+                "name": "Gizmodo.com"
+            },
+            "author": "Luc Olinga",
+            "title": "The Hidden Cost of OpenAI\u2019s Genius",
+            "description": "The creator of ChatGPT is handing out stock packages that exceed its total revenue, a high stakes gamble to keep its engineers from defecting to rivals like Meta.",
+            "url": "https://gizmodo.com/the-hidden-cost-of-openais-genius-2000626374",
+            "urlToImage": "https://gizmodo.com/app/uploads/2024/12/GettyImages-2188218335.jpg",
+            "publishedAt": "2025-07-09T01:55:27Z",
+            "content": "OpenAI is the undisputed poster child of the AI revolution, the company that forced the world to pay attention with the launch of ChatGPT. But behind the scenes, a desperate and wildly expensive batt\u2026 [+3421 chars]"
+        },
+        {
+            "source": {
+                "id": null,
+                "name": "CNET"
+            },
+            "author": "Omar Gallaga",
+            "title": "It's the End of the Road for Microsoft Store Movies and TV Shows. What It Means for You",
+            "description": "Microsoft has abruptly stopped offering rentals and sales of TV shows and movies on its media platforms.",
+            "url": "https://www.cnet.com/tech/services-and-software/its-the-end-of-the-road-for-microsoft-store-movies-and-tv-shows-what-it-means-for-you/",
+            "urlToImage": "https://www.cnet.com/a/img/resize/069df0f098db98a8d57f31adbbf4a2a8c5cba57a/hub/2024/07/19/d203483a-0f10-4c6c-8647-9219b50b1b5b/microsoft-logo-on-violet-background.png?auto=webp&fit=crop&height=675&width=1200",
+            "publishedAt": "2025-07-18T17:21:58Z",
+            "content": "Microsoft is exiting the market for selling and renting TV and movies across its platforms. There was no reason given for the abrupt change, with Microsoft simply posting the news on a support page o\u2026 [+1664 chars]"
+        },
+        {
+            "source": {
+                "id": "business-insider",
+                "name": "Business Insider"
+            },
+            "author": "Tess Martinelli",
+            "title": "Microsoft laid me off twice in 6 months. Here's how I'm moving forward and why I'd still return.",
+            "description": "Patrick Lyons was laid off from Microsoft in 2024, rehired months later, and laid off again.",
+            "url": "https://www.businessinsider.com/laid-off-from-microsoft-twice-in-six-months-moving-forward-2025-7",
+            "urlToImage": "https://i.insider.com/686652cf3d5881a51c1c9dea?width=1000&format=jpeg",
+            "publishedAt": "2025-07-03T18:34:57Z",
+            "content": "Ex-Microsoft employee Patrick Lyons said a generous severance and multiple side businesses made the layoffs manageable.Photo courtesy of Patrick Lyons\r\n<ul><li>Patrick Lyons was laid off from Microso\u2026 [+4492 chars]"
+        },
+        {
+            "source": {
+                "id": "business-insider",
+                "name": "Business Insider"
+            },
+            "author": "Amanda Hoover,Pranav Dixit",
+            "title": "Welcome to Silicon Valley's winner-take-all era",
+            "description": "From Meta to Microsoft, generative AI is accelerating Big Tech's salary divide.",
+            "url": "https://www.businessinsider.com/silicon-valley-salary-divide-meta-microsoft-layoffs-100-million-2025-7",
+            "urlToImage": "https://i.insider.com/6866d7d585e81483682d6154?width=1200&format=jpeg",
+            "publishedAt": "2025-07-06T08:13:01Z",
+            "content": "100 million-dollar pay packages aren't just for the Shohei Ohtanis and Cristiano Ronaldos of the world anymore. In Silicon Valley, nine-figure pay days are reportedly now being floated to the world's\u2026 [+7782 chars]"
+        },
+        {
+            "source": {
+                "id": "business-insider",
+                "name": "Business Insider"
+            },
+            "author": "Brent D. Griffiths",
+            "title": "Microsoft stock surges after it posts another earnings beat",
+            "description": "Microsoft CEO Satya Nadella said that cloud and AI continue to drive the tech giant's growth.",
+            "url": "https://www.businessinsider.com/microsoft-earnings-report-fourth-quarter-reaction-2025-7",
+            "urlToImage": "https://i.insider.com/688a6aae3d5881a51c1e4b51?width=1200&format=jpeg",
+            "publishedAt": "2025-07-30T20:24:39Z",
+            "content": "Microsoft CEO Satya NadellaJason Redmond/AP\r\n<ul><li>Microsoft reported its fourth-quarter earnings on Wednesday.</li><li>Shares in the tech giant jumped after earnings came in above estimates.</li><\u2026 [+1063 chars]"
+        },
+        {
+            "source": {
+                "id": null,
+                "name": "Slashdot.org"
+            },
+            "author": "msmash",
+            "title": "Microsoft Research Identifies 40 Jobs Most Vulnerable To AI",
+            "description": "Microsoft researchers have identified 40 occupations [PDF] with the highest exposure to AI, ranking jobs by how closely their tasks align with AI's current capabilities. The study analyzed 200,000 real-world conversations from Copilot users and compared AI pe\u2026",
+            "url": "https://slashdot.org/story/25/08/01/1644200/microsoft-research-identifies-40-jobs-most-vulnerable-to-ai",
+            "urlToImage": "https://a.fsdn.com/sd/topics/microsoft_64100.png",
+            "publishedAt": "2025-08-01T16:43:00Z",
+            "content": "Microsoft researchers have identified 40 occupations[PDF] with the highest exposure to AI, ranking jobs by how closely their tasks align with AI's current capabilities. The study analyzed 200,000 rea\u2026 [+2084 chars]"
+        },
+        {
+            "source": {
+                "id": null,
+                "name": "Slashdot.org"
+            },
+            "author": "msmash",
+            "title": "Microsoft Is Killing Windows 11 SE, Its Chrome OS Rival",
+            "description": "Microsoft has discontinued Windows 11 SE, its education-focused operating system designed for low-cost school PCs. The company confirmed that Windows 11 SE will not receive the upcoming version 25H2 update and support will end in October 2026, including secur\u2026",
+            "url": "https://tech.slashdot.org/story/25/08/01/1441216/microsoft-is-killing-windows-11-se-its-chrome-os-rival",
+            "urlToImage": "https://a.fsdn.com/sd/topics/windows_64.png",
+            "publishedAt": "2025-08-01T14:41:00Z",
+            "content": "Microsoft has discontinued Windows 11 SE, its education-focused operating system designed for low-cost school PCs. The company confirmed that Windows 11 SE will not receive the upcoming version 25H2 \u2026 [+490 chars]"
+        },
+        {
+            "source": {
+                "id": null,
+                "name": "Slashdot.org"
+            },
+            "author": "msmash",
+            "title": "Microsoft Poaches Top Google DeepMind Staff in AI Talent War",
+            "description": "Microsoft has recruited more than 20 AI employees from Google's DeepMind research division, the newest front in a talent war being waged by Silicon Valley's tech giants as they jostle to gain an edge in the nascent technology. From a report: Amar Subramanya, \u2026",
+            "url": "https://slashdot.org/story/25/07/22/1727252/microsoft-poaches-top-google-deepmind-staff-in-ai-talent-war",
+            "urlToImage": "https://a.fsdn.com/sd/topics/microsoft_64100.png",
+            "publishedAt": "2025-07-22T17:27:00Z",
+            "content": "Amar Subramanya, the former head of engineering for Google's Gemini chatbot, is the latest to move to Microsoft from its rival, according to a post on his LinkedIn profile on Tuesday. \"The culture he\u2026 [+430 chars]"
+        },
+        {
+            "source": {
+                "id": null,
+                "name": "Slashdot.org"
+            },
+            "author": "EditorDavid",
+            "title": "Microsoft Outlook Malfunctioned For Over 21 Hours Wednesday and Thursday",
+            "description": "\"Microsoft's Outlook email service malfunctioned for over 21 hours Wednesday and Thursday,\" reports CNBC, \"prompting some people to post on social media about the inability to reach their virtual mailboxes.\"\nThe issue began at 6:20 p.m. Eastern time on Wednes\u2026",
+            "url": "https://slashdot.org/story/25/07/12/1730242/microsoft-outlook-malfunctioned-for-over-21-hours-wednesday-and-thursday",
+            "urlToImage": "https://a.fsdn.com/sd/topics/microsoft_64100.png",
+            "publishedAt": "2025-07-12T18:34:00Z",
+            "content": "\"Microsoft's Outlook email service malfunctioned for over 21 hours Wednesday and Thursday,\" reports CNBC, \"prompting some people to post on social media about the inability to reach their virtual mai\u2026 [+1005 chars]"
+        },
+        {
+            "source": {
+                "id": "business-insider",
+                "name": "Business Insider"
+            },
+            "author": "Alistair Barr",
+            "title": "Azure vs AWS: The first time we get to truly compare these cloud giants",
+            "description": "Microsoft finally reveals a pure revenue number for its Azure cloud computing business. Here's how that compares with AWS.",
+            "url": "https://www.businessinsider.com/microsoft-amazon-aws-azure-compare-cloud-giants-2025-7",
+            "urlToImage": "https://i.insider.com/688be662f748d8c055f6af6b?width=1200&format=jpeg",
+            "publishedAt": "2025-07-31T22:39:32Z",
+            "content": "Microsoft CEO Satya Nadella and Amazon CEO Andy JassyGetty Images\r\n<ul><li>Microsoft reveals a pure Azure revenue number for the first time.</li><li>This lets us properly compare Azure with AWS, the \u2026 [+2204 chars]"
+        },
+        {
+            "source": {
+                "id": "business-insider",
+                "name": "Business Insider"
+            },
+            "author": "Ellen Thomas",
+            "title": "Big Tech's data center spending spree shows no signs of slowing",
+            "description": "Amazon, Apple, Google, Meta, and Microsoft all announced higher capex guidance on quarterly earnings calls this week.",
+            "url": "https://www.businessinsider.com/big-tech-companies-raised-capex-this-quarter-2025-8",
+            "urlToImage": "https://i.insider.com/688cecfdf748d8c055f6bc64?width=1200&format=jpeg",
+            "publishedAt": "2025-08-01T17:35:40Z",
+            "content": "Amazon CEO Andy JassyREUTERS/Brendan McDermid\r\n<ul><li>Amazon, Apple, Google, Meta, and Microsoft announced quarterly earnings results this week.</li><li>The companies all raised capex guidance for t\u2026 [+3315 chars]"
+        },
+        {
+            "source": {
+                "id": "business-insider",
+                "name": "Business Insider"
+            },
+            "author": "Geoff Weiss",
+            "title": "Microsoft salaries revealed: How much the tech giant pays software engineers, product managers, and more",
+            "description": "At Microsoft, software engineers can make $284,000 in base pay, per work visa data from the first quarter of 2025.",
+            "url": "https://www.businessinsider.com/microsoft-salaries-pays-engineers-pm-ai-talent-wars-2025-7",
+            "urlToImage": "https://i.insider.com/68750e8285e81483682df238?width=1200&format=jpeg",
+            "publishedAt": "2025-07-15T09:00:01Z",
+            "content": "Microsoft CEO Satya Nadella.JASON REDMOND/AFP via Getty Images\r\n<ul><li>Amid layoffs, Microsoft has also retained and rewarded employees focused on AI.</li><li>Federal filings reveal how much the tec\u2026 [+4781 chars]"
+        },
+        {
+            "source": {
+                "id": "business-insider",
+                "name": "Business Insider"
+            },
+            "author": "Brent D. Griffiths,Madison Hoff",
+            "title": "Microsoft study identifies 40 jobs AI chatbots are likely to help automate \u2014 and those where the tech is barely being used",
+            "description": "Microsoft researchers found that translators have much overlap with AI chatbots, while dredge operators have among the least.",
+            "url": "https://www.businessinsider.com/ai-jobs-overlap-affect-research-2025-7",
+            "urlToImage": "https://i.insider.com/6887c4f63d5881a51c1e1d3b?width=1200&format=jpeg",
+            "publishedAt": "2025-07-29T09:17:01Z",
+            "content": "Microsoft researchers found that jobs related to providing and communicating information are most likely to be affected by AI.Oscar Wong/Getty\r\n<ul><li>AI chatbots are likely to automate tasks relate\u2026 [+3425 chars]"
+        },
+        {
+            "source": {
+                "id": "business-insider",
+                "name": "Business Insider"
+            },
+            "author": "Ashley Stewart",
+            "title": "Microsoft employees react to CEO's 'enigma of success' memo with a mixture of suspicion, anger, and speculation",
+            "description": "Satya Nadella attempted to explain why Microsoft is cutting thousands of jobs while earnings billions of dollars. Employees are responding.",
+            "url": "https://www.businessinsider.com/microsoft-employees-react-ceo-memo-satya-nadella-enigma-success-2025-7",
+            "urlToImage": "https://i.insider.com/6883ac4685e81483682eb0ae?width=1200&format=jpeg",
+            "publishedAt": "2025-07-25T19:47:40Z",
+            "content": "\"DeepSeek, and R1 in particular, was the first model I've seen post some points,\" Microsoft's CEO Satya Nadella said.Stephen Brashear via Getty Images\r\n<ul><li>Some staff questioned Satya Nadella's m\u2026 [+4314 chars]"
+        },
+        {
+            "source": {
+                "id": "business-insider",
+                "name": "Business Insider"
+            },
+            "author": "Insider Inc.",
+            "title": "Tech salaries: Here's how much the biggest tech companies pay engineers and other key roles",
+            "description": "Compare corporate salaries across the tech industry. Discover compensation trends at companies like Amazon, Meta, Google, Microsoft, and AI companies.",
+            "url": "https://www.businessinsider.com/tech-salaries-compensation-data-ai-talent-wars-silicon-valley",
+            "urlToImage": "https://i.insider.com/6883ae7a85e81483682eb11f?width=1200&format=jpeg",
+            "publishedAt": "2025-07-31T09:01:02Z",
+            "content": "Getty images; Tyler Le/BI\r\nThe AI talent wars are burning hot, and the tech salaries being dished out for top talent are even hotter.Thanks to data from federal filings, we have a window into tech co\u2026 [+1066 chars]"
+        },
+        {
+            "source": {
+                "id": "business-insider",
+                "name": "Business Insider"
+            },
+            "author": "Ashley Stewart",
+            "title": "Microsoft CFO calls for 'intensity' in an internal memo, after blowout earnings",
+            "description": "Microsoft reported a $27 billion quarterly profit, after cutting thousands of jobs. The CFO is keeping up the pressure.",
+            "url": "https://www.businessinsider.com/microsofts-cfo-intensity-internal-earnings-memo",
+            "urlToImage": "https://i.insider.com/688a881f85e81483682efd50?width=1200&format=jpeg",
+            "publishedAt": "2025-07-30T21:59:11Z",
+            "content": "Amy Hood, chief financial officer at Microsoft.Stephen Brashear/Getty Images\r\n<ul><li>Microsoft's top finance executive sent an internal email to workers calling for \"intensity\" in 2026.</li><li>Last\u2026 [+2705 chars]"
+        },
+        {
+            "source": {
+                "id": "business-insider",
+                "name": "Business Insider"
+            },
+            "author": "Joshua Nelken-Zitser",
+            "title": "I'm a software engineer at Microsoft who was diagnosed with autism and ADHD at 30. It's changed how I see myself and show up at work.",
+            "description": "Jade Wilson, a software engineer at Microsoft, received later-in-life autism and ADHD diagnoses. Big Tech networking events can pose a challenge.",
+            "url": "https://www.businessinsider.com/software-engineer-navigate-work-microsoft-autism-adhd-diagnoses-2025-7",
+            "urlToImage": "https://i.insider.com/686f9df985e81483682dbb18?width=1200&format=jpeg",
+            "publishedAt": "2025-07-13T09:21:01Z",
+            "content": "Jade Wilson has worked at Microsoft since 2022.Courtesy of Jade Wilson\r\n<ul><li>Jade Wilson was diagnosed with autism and ADHD in 2024.</li><li>Working remotely for Microsoft since 2022 has helped he\u2026 [+6093 chars]"
+        },
+        {
+            "source": {
+                "id": "business-insider",
+                "name": "Business Insider"
+            },
+            "author": "Charissa Cheong",
+            "title": "I worked at Amazon, Microsoft, and Meta after struggling to land internships. Here are my top tips for getting into Big Tech.",
+            "description": "Jay Jung has been a software engineer at Meta, Microsoft, and Amazon. He shared tips for revamping r\u00e9sum\u00e9s and passing coding interviews.",
+            "url": "https://www.businessinsider.com/software-engineer-tips-big-tech-roles-2025-7",
+            "urlToImage": "https://i.insider.com/6874cfca85e81483682df00c?width=1200&format=jpeg",
+            "publishedAt": "2025-07-14T11:42:52Z",
+            "content": "Jung started his first full-time tech job at Amazon in 2019.Courtesy of Jay Jung\r\n<ul><li>Jay Jung broke into Big Tech after he initially struggled to land internships.</li><li>He had to revamp his r\u2026 [+5764 chars]"
+        },
+        {
+            "source": {
+                "id": "business-insider",
+                "name": "Business Insider"
+            },
+            "author": "Chris Williams",
+            "title": "I'm the ex-VP of HR at Microsoft. The tech job market feels bleak, but here are 3 reasons not to panic.",
+            "description": "Chris Williams, ex-VP of HR at Microsoft, outlines three industry opportunties for tech workers despite current layoffs and disruptions caused by AI.",
+            "url": "https://www.businessinsider.com/ex-microsoft-vp-shares-tech-jobs-opportunities-despite-layoffs-ai-2025-07",
+            "urlToImage": "https://i.insider.com/68756fb43d5881a51c1d5013?width=1200&format=jpeg",
+            "publishedAt": "2025-07-17T09:07:02Z",
+            "content": "Despite tech layoffs, ex-Microsoft HR VP Chris Williams says there could be countless job expansions.SolStock/Getty Images\r\n<ul><li>Chris Williams is an ex-VP of HR at Microsoft and has over 40 years\u2026 [+4568 chars]"
+        },
+        {
+            "source": {
+                "id": "business-insider",
+                "name": "Business Insider"
+            },
+            "author": "Peter Kafka",
+            "title": "Big Tech keeps firing thousands of employees \u2014and then keeps hiring thousands more",
+            "description": "Meta, Microsoft, and Google are laying off thousands of people. They're also hiring lots of people \u2014 especially to win the AI race.",
+            "url": "https://www.businessinsider.com/big-tech-layoffs-hiring-mircosoft-google-meta-ai-why-2025-7",
+            "urlToImage": "https://i.insider.com/6887dd84f748d8c055f667ea?width=1200&format=jpeg",
+            "publishedAt": "2025-07-29T09:01:01Z",
+            "content": "Employees come and go at Google headquarters in Mountain View, California.Justin Sullivan/Getty Images\r\n<ul><li>Big Tech now routinely lays off lots of people \u2014 while showering some new hires with hu\u2026 [+2954 chars]"
+        },
+        {
+            "source": {
+                "id": null,
+                "name": "Hipertextual"
+            },
+            "author": "Luis Miranda",
+            "title": "Microsoft reemplaza un componente clave de Windows 11 tras casi 30 a\u00f1os",
+            "description": "Microsoft contin\u00faa en su cruzada por eliminar componentes cl\u00e1sicos en Windows 11. A unos d\u00edas de que anunciara la muerte de PowerShell 2.0, el gigante tecnol\u00f3gico se despedir\u00e1 de otra caracter\u00edstica clave del sistema operativo. Microsoft anunci\u00f3 que reemplaza\u2026",
+            "url": "http://hipertextual.com/2025/07/microsoft-reemplaza-jscript-windows-11-24h2",
+            "urlToImage": "https://i0.wp.com/imgs.hipertextual.com/wp-content/uploads/2025/04/portada-windows-11.jpg?fit=2400%2C1440&quality=70&strip=all&ssl=1",
+            "publishedAt": "2025-07-11T21:40:00Z",
+            "content": "Microsoft contin\u00faa en su cruzada por eliminar componentes cl\u00e1sicos en Windows 11. A unos d\u00edas de que anunciara la muerte de PowerShell 2.0, el gigante tecnol\u00f3gico se despedir\u00e1 de otra caracter\u00edstica \u2026 [+2678 chars]"
+        },
+        {
+            "source": {
+                "id": null,
+                "name": "Hipertextual"
+            },
+            "author": "Luis Miranda",
+            "title": "Microsoft eliminar\u00e1 un componente cl\u00e1sico de Windows en su pr\u00f3xima actualizaci\u00f3n",
+            "description": "Microsoft confirm\u00f3 que matar\u00e1 otro un componente cl\u00e1sico de Windows en su pr\u00f3xima actualizaci\u00f3n. El gigante tecnol\u00f3gico anunci\u00f3 que PowerShell 2.0, la versi\u00f3n del shell que sustituy\u00f3 al s\u00edmbolo del sistema en Windows 7, dejar\u00e1 de existir. Microsoft remover\u00e1 e\u2026",
+            "url": "http://hipertextual.com/2025/07/microsoft-eliminara-powershell-2-0-actualizacion-windows-11",
+            "urlToImage": "https://i0.wp.com/imgs.hipertextual.com/wp-content/uploads/2025/07/Windows-PowerShell-Terminal.jpg?fit=1600%2C1000&quality=70&strip=all&ssl=1",
+            "publishedAt": "2025-07-04T21:58:00Z",
+            "content": "Microsoft confirm\u00f3 que matar\u00e1 otro un componente cl\u00e1sico de Windows en su pr\u00f3xima actualizaci\u00f3n. El gigante tecnol\u00f3gico anunci\u00f3 que PowerShell 2.0, la versi\u00f3n del shell que sustituy\u00f3 al s\u00edmbolo del s\u2026 [+2610 chars]"
+        },
+        {
+            "source": {
+                "id": "business-insider",
+                "name": "Business Insider"
+            },
+            "author": "Kelsey Vlamis",
+            "title": "Here's the r\u00e9sum\u00e9 a senior product designer at Microsoft used to land her dream job",
+            "description": "Antara Dave, a senior product designer, landed her dream job at Microsoft the second time she applied. Here's the resume she used.",
+            "url": "https://www.businessinsider.com/resume-microsoft-senior-product-designer-used-land-dream-job-2025-7",
+            "urlToImage": "https://i.insider.com/686c41393d5881a51c1cd519?width=1200&format=jpeg",
+            "publishedAt": "2025-07-08T10:23:02Z",
+            "content": "Antara Dave, a product designer, got hired at Microsoft after getting rejected the first time she applied a year earlier.Antara Dave\r\n<ul><li>Antara Dave landed a senior product designer role at Micr\u2026 [+2527 chars]"
+        },
+        {
+            "source": {
+                "id": "business-insider",
+                "name": "Business Insider"
+            },
+            "author": "Audrey Hettleman",
+            "title": "I was laid off from my product management job at Microsoft at 25. It may have been the best thing for me.",
+            "description": "Kosi Pierre-Louis was told he was laid off from Microsoft on May 13. He's not actively applying for jobs right now and considering music as a career.",
+            "url": "https://www.businessinsider.com/laid-off-microsoft-big-tech-best-thing-2025-7",
+            "urlToImage": "https://i.insider.com/68711e86f748d8c055f571b7?width=1090&format=jpeg",
+            "publishedAt": "2025-07-14T09:05:01Z",
+            "content": "Kosi Pierre-Louis.Courtesy of Kosi Pierre-Louis\r\n<ul><li>Microsoft laid off Kosi Pierre-Louis, a product manager, in May amid companywide layoffs.</li><li>The 25-year-old worked on Microsoft's Securi\u2026 [+5046 chars]"
+        },
+        {
+            "source": {
+                "id": null,
+                "name": "Hipertextual"
+            },
+            "author": "Luis Miranda",
+            "title": "\u00a1GPT-5 est\u00e1 cerca! Microsoft ya prueba un \u00abmodo inteligente\u00bb en Copilot",
+            "description": "A unos d\u00edas de la presentaci\u00f3n de GPT-5, Microsoft est\u00e1 preparando los \u00faltimos detalles para integrarlo a Copilot. Una filtraci\u00f3n reciente apunta a que veremos un nuevo modo inteligente dentro de la IA de Microsoft. Esta modalidad ya se est\u00e1 probando dentro d\u2026",
+            "url": "http://hipertextual.com/tecnologia/microsoft-copilot-integracion-gpt-5/",
+            "urlToImage": "https://imgs.hipertextual.com/wp-content/uploads/2024/01/tecla-copilot-windows-microsoft.jpg",
+            "publishedAt": "2025-07-30T17:51:00Z",
+            "content": "A unos d\u00edas de la presentaci\u00f3n de GPT-5, Microsoft est\u00e1 preparando los \u00faltimos detalles para integrarlo a Copilot. Una filtraci\u00f3n reciente apunta a que veremos un nuevo modo inteligente dentro de la \u2026 [+2630 chars]"
+        },
+        {
+            "source": {
+                "id": null,
+                "name": "Hipertextual"
+            },
+            "author": "Luis Miranda",
+            "title": "Microsoft bloquea la cuenta de Hotmail de un desarrollador de LibreOffice",
+            "description": "Microsoft ha bloqueado la cuenta de un desarrollador de LibreOffice, una acci\u00f3n que ha levantado sospechas. A unos d\u00edas de que The Document Foundation acusara al gigante tecnol\u00f3gico de usar Office para bloquear la competencia, un miembro del equipo de desarro\u2026",
+            "url": "http://hipertextual.com/software/microsoft-bloquea-hotmail-desarrollador-libreoffice/",
+            "urlToImage": "https://imgs.hipertextual.com/wp-content/uploads/2025/07/satya-nadella-linux.jpg",
+            "publishedAt": "2025-07-29T23:41:43Z",
+            "content": "Microsoft ha bloqueado la cuenta de un desarrollador de LibreOffice, una acci\u00f3n que ha levantado sospechas. A unos d\u00edas de que The Document Foundation acusara al gigante tecnol\u00f3gico de usar Office pa\u2026 [+2822 chars]"
+        },
+        {
+            "source": {
+                "id": null,
+                "name": "Hipertextual"
+            },
+            "author": "Luis Miranda",
+            "title": "LibreOffice explota contra Microsoft y lo acusa de usar Office para bloquear la competencia",
+            "description": "LibreOffice ha intensificado su batalla contra Microsoft y sus pr\u00e1cticas de negocio. A unas semanas de advertir sobre los verdaderos costes de migrar a Windows 11, el proyecto comunitario vuelve a la carga en un tema que domina a la perfecci\u00f3n. The Document F\u2026",
+            "url": "http://hipertextual.com/2025/07/libreoffice-acusa-microsoft-office-bloquear-competencia",
+            "urlToImage": "https://i0.wp.com/imgs.hipertextual.com/wp-content/uploads/2015/01/nadella.jpeg?fit=2048%2C1402&quality=70&strip=all&ssl=1",
+            "publishedAt": "2025-07-18T20:05:00Z",
+            "content": "LibreOffice ha intensificado su batalla contra Microsoft y sus pr\u00e1cticas de negocio. A unas semanas de advertir sobre los verdaderos costes de migrar a Windows 11, el proyecto comunitario vuelve a la\u2026 [+3064 chars]"
+        },
+        {
+            "source": {
+                "id": null,
+                "name": "Gizmodo.com"
+            },
+            "author": "Bruce Gil",
+            "title": "Apple\u2019s Tim Cook Talks Trump Tariffs and AI",
+            "description": "Apple and other tech giants reported their quarterly earnings this week",
+            "url": "https://gizmodo.com/apples-tim-cook-talks-trump-tariffs-and-ai-2000637963",
+            "urlToImage": "https://gizmodo.com/app/uploads/2022/06/fe7250d6d7c67921925509ee5f62008e.jpg",
+            "publishedAt": "2025-08-01T19:05:13Z",
+            "content": "On Thursday, Apple CEO Tim Cook said the Silicon Valley company could end up spending nearly $2 billion thanks to President Donald Trumps tariffs.\r\nFor the June quarter, we incurred approximately $80\u2026 [+2609 chars]"
+        },
+        {
+            "source": {
+                "id": null,
+                "name": "CNET"
+            },
+            "author": "Dashia Milden",
+            "title": "Your Microsoft Passwords Will Vanish in a Few Hours. What to Do Right Now",
+            "description": "Microsoft's go-to password manager won't be the same after Aug. 1.",
+            "url": "https://www.cnet.com/tech/your-microsoft-passwords-will-vanish-in-a-few-hours-what-to-do-right-now/",
+            "urlToImage": "https://www.cnet.com/a/img/resize/8e18004e40e09dc3e2127ba899790336a97e8f68/hub/2024/04/29/50f56149-703c-4581-8c87-a3c5c5216846/gettyimages-1289956604.jpg?auto=webp&fit=crop&height=675&width=1200",
+            "publishedAt": "2025-07-31T15:29:00Z",
+            "content": "It's time to say so long to the\u00a0Microsoft Authenticator\u00a0app as we know it.\u00a0\r\nAs of this Friday, Aug. 1, the app will no longer save or manage passwords, use two-factor authentication or auto-fill. An\u2026 [+4207 chars]"
+        },
+        {
+            "source": {
+                "id": "the-verge",
+                "name": "The Verge"
+            },
+            "author": "Tom Warren",
+            "title": "Microsoft\u2019s Copilot Plus features might arrive on desktop PCs later this year",
+            "description": "Microsoft\u2019s latest Windows AI features arrived first on new Copilot Plus PCs last year, but they were limited to a special range of laptops. That looks set to change thanks to Intel refreshing its existing Arrow Lake desktop CPUs later this year, that might j\u2026",
+            "url": "https://www.theverge.com/news/700294/intel-arrow-lake-refresh-npu-microsoft-copilot-plus-pc-features",
+            "urlToImage": "https://platform.theverge.com/wp-content/uploads/sites/2/2025/07/copilotpluspc.jpg?quality=90&strip=all&crop=0%2C10.732984293194%2C100%2C78.534031413613&w=1200",
+            "publishedAt": "2025-07-08T08:48:19Z",
+            "content": "Intels rumored Arrow Lake Refresh chips might include an NPU that can enable Copilot Plus AI features.\r\nMicrosofts latest Windows AI features arrived first on new Copilot Plus PCs last year, but they\u2026 [+1803 chars]"
+        },
+        {
+            "source": {
+                "id": "the-verge",
+                "name": "The Verge"
+            },
+            "author": "Emma Roth",
+            "title": "Apple\u2019s 5th Ave store spray-painted to protest \u2018climate hypocrisy\u2019",
+            "description": "A climate change activist was arrested after spray-painting Apple\u2019s 5th Avenue store as part of a protest against Big Tech\u2019s \u201cclimate hypocrisy.\u201d Protestors from the Extinction Rebellion environmental group staged a demonstration at the New York City storefro\u2026",
+            "url": "https://www.theverge.com/news/699245/apple-climate-hypocrisy-5th-ave-nyc-store-extinction-rebellion",
+            "urlToImage": "https://platform.theverge.com/wp-content/uploads/sites/2/2025/07/climate-protest.jpg?quality=90&strip=all&crop=0%2C10.736179071137%2C100%2C78.527641857725&w=1200",
+            "publishedAt": "2025-07-07T14:11:57Z",
+            "content": "An Extinction Rebellion protester was arrested after spray-painting Tim + Trump = Toxic on Apples New York City storefront.\r\nA climate change activist was arrested after spray-painting Apples 5th Ave\u2026 [+2207 chars]"
+        },
+        {
+            "source": {
+                "id": "the-verge",
+                "name": "The Verge"
+            },
+            "author": "Emma Roth",
+            "title": "Perplexity just launched an AI web browser",
+            "description": "Perplexity, the startup behind the AI \u201canswer\u201d engine, has just launched its own web browser. The browser, called Comet, incorporates Perplexity\u2019s AI search tools and assistant in a way that CEO Aravind Srinivas says \u201ctransforms entire browsing sessions into \u2026",
+            "url": "https://www.theverge.com/news/703037/perplexity-ai-web-browser-comet-launch",
+            "urlToImage": "https://platform.theverge.com/wp-content/uploads/sites/2/2025/07/perplexity-comet-assistant.png?quality=90&strip=all&crop=0,16.342557965595,100,67.314884068811",
+            "publishedAt": "2025-07-09T16:53:31Z",
+            "content": "Comet\u2019s AI assistant can answer questions about what\u2019s on your screen. | Image: Perplexity\r\n\n\nPerplexity, the startup behind the AI \u201canswer\u201d engine, has just launched its own web browser. The browser\u2026 [+1962 chars]"
+        },
+        {
+            "source": {
+                "id": "the-verge",
+                "name": "The Verge"
+            },
+            "author": "Adi Robertson",
+            "title": "Here are the letters that convinced Google and Apple to keep TikTok online",
+            "description": "A Freedom of Information Act request has produced letters that the US Department of Justice sent to Google, Apple, Amazon, and several other companies in order to assuage their concerns about breaking a law that banned US web services from working with TikTok\u2026",
+            "url": "https://www.theverge.com/tiktok/697982/trump-tiktok-ban-apple-google-letters-pam-bondi",
+            "urlToImage": "https://platform.theverge.com/wp-content/uploads/sites/2/2025/07/gettyimages-2222469463.jpg?quality=90&strip=all&crop=0%2C10.736627211434%2C100%2C78.526745577133&w=1200",
+            "publishedAt": "2025-07-03T21:26:55Z",
+            "content": "Trumps Justice Department promised to release tech giants from legal liability to stop them from banning TikTok.\r\nA Freedom of Information Act request has produced letters that the US Department of J\u2026 [+1956 chars]"
+        },
+        {
+            "source": {
+                "id": null,
+                "name": "MacRumors"
+            },
+            "author": "Juli Clover",
+            "title": "Nvidia Beats Apple to $4 Trillion Market Value",
+            "description": "Nvidia today became the first public company to hit a $4 trillion market value as shares briefly rose to $164. Stock has dropped back to around $163 per share, so the company is now hovering at the $3.9T mark.\n\n\n\n\n\n\n\nApple became the world's first $3 trillion\u2026",
+            "url": "https://www.macrumors.com/2025/07/09/nvidia-4-trillion-market-value/",
+            "urlToImage": "https://images.macrumors.com/t/hTWtXD99jUuYkTySQL6_TOl47us=/2500x/article-new/2024/06/Apple-vs-Nvidia.jpg",
+            "publishedAt": "2025-07-09T20:06:37Z",
+            "content": "Nvidia today became the first public company to hit a $4 trillion market value as shares briefly rose to $164. Stock has dropped back to around $163 per share, so the company is now hovering at the $\u2026 [+791 chars]"
+        },
+        {
+            "source": {
+                "id": "the-next-web",
+                "name": "The Next Web"
+            },
+            "author": "Si\u00f4n Geschwindt",
+            "title": "Denmark taps Microsoft to build world\u2019s most powerful quantum computer",
+            "description": "Denmark is aiming to stake a bold claim in the global quantum race with plans to build the world\u2019s most powerful quantum computer. Backed by \u20ac80mn from EIFO (Denmark\u2019s export and investment fund) and the Novo Nordisk Foundation, the new initiative \u2014 dubbed Qu\u2026",
+            "url": "https://thenextweb.com/news/denmark-taps-microsoft-to-build-worlds-most-powerful-quantum-computer",
+            "urlToImage": "https://img-cdn.tnwcdn.com/image/tnw-blurple?filter_last=1&fit=1280%2C640&url=https%3A%2F%2Fcdn0.tnwcdn.com%2Fwp-content%2Fblogs.dir%2F1%2Ffiles%2F2025%2F07%2Fquantum-computing-atom.jpg&signature=3dc8e4c84232983f4143e227afe18b8d",
+            "publishedAt": "2025-07-17T10:59:51Z",
+            "content": "Denmark is aiming to stake a bold claim in the global quantum race with plans to build the worlds most powerful quantum computer.\r\nBacked by 80mn from EIFO (Denmarks export and investment fund) and t\u2026 [+2828 chars]"
+        },
+        {
+            "source": {
+                "id": "the-next-web",
+                "name": "The Next Web"
+            },
+            "author": "Si\u00f4n Geschwindt",
+            "title": "Swiss startup says its AI weather forecaster beats Microsoft, Google",
+            "description": "Swiss startup Jua has launched an AI-powered weather forecaster that it says beats leading models from tech giants \u2014 potentially making it the world\u2019s most accurate weather forecasting system. Jua claims its model \u2014 dubbed EPT-2 \u2014 is faster and more accurate \u2026",
+            "url": "https://thenextweb.com/news/swiss-startup-jua-ai-weather-forecaster-outperforms-microsoft-google",
+            "urlToImage": "https://img-cdn.tnwcdn.com/image/tnw-blurple?filter_last=1&fit=1280%2C640&url=https%3A%2F%2Fcdn0.tnwcdn.com%2Fwp-content%2Fblogs.dir%2F1%2Ffiles%2F2024%2F12%2Fgoogle-deepmind-AI-weather-forecast-gencast.jpg&signature=0a9b17921194c4b5d5d2ee9ac25d27cc",
+            "publishedAt": "2025-07-24T13:24:27Z",
+            "content": "Swiss startup Jua has launched an AI-powered weather forecaster that it says beats leading models from tech giants potentially making it the worlds most accurate weather forecasting system.\r\nJua clai\u2026 [+2258 chars]"
+        },
+        {
+            "source": {
+                "id": null,
+                "name": "Slashdot.org"
+            },
+            "author": "msmash",
+            "title": "Microsoft Uses Chinese Engineers To Maintain Defense Department Systems Under Minimal US Oversight",
+            "description": "Microsoft employs engineers in China to help maintain Defense Department computer systems, with U.S. citizens serving as \"digital escorts\" to oversee the foreign workers, according to a ProPublica investigation. The escorts often lack advanced technical exper\u2026",
+            "url": "https://slashdot.org/story/25/07/15/1345208/microsoft-uses-chinese-engineers-to-maintain-defense-department-systems-under-minimal-us-oversight",
+            "urlToImage": "https://a.fsdn.com/sd/topics/microsoft_64100.png",
+            "publishedAt": "2025-07-15T14:00:00Z",
+            "content": "\"We're trusting that what they're doing isn't malicious, but we really can't tell,\" one current escort told the publication.\r\nThe purpose of their presence is obviously a CYA move by Microsoft so the\u2026 [+723 chars]"
+        },
+        {
+            "source": {
+                "id": null,
+                "name": "Yahoo Entertainment"
+            },
+            "author": "Undercovered Deep Insights",
+            "title": "Microsoft and Oracle Poised for a Cash Windfall",
+            "description": "One Big Beautiful Bill could unlock stealth FCF gains for Microsoft and Oracle",
+            "url": "https://finance.yahoo.com/news/microsoft-oracle-poised-cash-windfall-121911099.html",
+            "urlToImage": "https://media.zenfs.com/en/us.finance.gurufocus/3abaa0023cf7c3b6efbdaf155d0ae16f",
+            "publishedAt": "2025-07-10T12:19:11Z",
+            "content": "Evercore ISI notes that the One Big Beautiful Bill could quietly pump up cash balances at big software names like Microsoft (NASDAQ:MSFT) and Oracle (NYSE:ORCL). They've crunched the numbers and say \u2026 [+1242 chars]"
+        },
+        {
+            "source": {
+                "id": null,
+                "name": "Slashdot.org"
+            },
+            "author": "BeauHD",
+            "title": "Microsoft Has a New Trick To Improve Laptop Battery Life On Windows",
+            "description": "Microsoft is testing a new adaptive energy saver mode in Windows 11 that automatically turns energy saver on or off based on system workload instead of battery percentage, aiming to extend laptop battery life without dimming screen brightness. The feature is \u2026",
+            "url": "https://hardware.slashdot.org/story/25/07/14/2313239/microsoft-has-a-new-trick-to-improve-laptop-battery-life-on-windows",
+            "urlToImage": "https://a.fsdn.com/sd/topics/microsoft_64100.png",
+            "publishedAt": "2025-07-15T01:30:00Z",
+            "content": "Turn off all those power wasting crap MS provides. MS Teams, gone. Copilot, gone. OneDrive, gone. I wish I could get rid of the SearchApp and a bunch of those other things I do not use or need.\r\nWith\u2026 [+506 chars]"
+        },
+        {
+            "source": {
+                "id": null,
+                "name": "Slashdot.org"
+            },
+            "author": "msmash",
+            "title": "Microsoft To Help France Showcase Paris' Notre-Dame Cathedral in Digital Replica",
+            "description": "An anonymous reader shares a report: Microsoft is teaming up with the French government to create a digital replica of Paris' Notre-Dame Cathedral, France's most visited monument, the U.S. tech company's president, Brad Smith, said on Monday. The 862-year-old\u2026",
+            "url": "https://slashdot.org/story/25/07/21/1548229/microsoft-to-help-france-showcase-paris-notre-dame-cathedral-in-digital-replica",
+            "urlToImage": "https://a.fsdn.com/sd/topics/microsoft_64100.png",
+            "publishedAt": "2025-07-21T16:01:00Z",
+            "content": "The Fine Print: The following comments are owned by whoever posted them. We are not responsible for them in any way."
+        },
+        {
+            "source": {
+                "id": "business-insider",
+                "name": "Business Insider"
+            },
+            "author": "Ashley Stewart",
+            "title": "Internal Microsoft pay guidelines reveal salary, hiring bonus, and stock award ranges by level",
+            "description": "The data reveals salary ranges, equity, and bonuses for new hires, with a big carve-out for competitive cases, highlighting the battle for AI talent.",
+            "url": "https://www.businessinsider.com/microsoft-pay-guidelines-new-hire-offers-exception-2025-7",
+            "urlToImage": "https://i.insider.com/6887cdcaf748d8c055f66644?width=1200&format=jpeg",
+            "publishedAt": "2025-07-30T09:00:02Z",
+            "content": "Microsoft CEO Satya NadellaStephen Brashear/Getty Images\r\n<ul><li>Microsoft's internal pay guidelines show how much the company generally offers new hires.</li><li>The documents include pay ranges fo\u2026 [+6287 chars]"
+        },
+        {
+            "source": {
+                "id": null,
+                "name": "Slashdot.org"
+            },
+            "author": "BeauHD",
+            "title": "OpenAI Says It Will Use Google's Cloud For ChatGPT",
+            "description": "OpenAI has added Google Cloud as a provider for ChatGPT and its API, expanding beyond Microsoft to address growing demand for computing power. CNBC reports: OpenAI has added Google to a list of suppliers, specifying that ChatGPT and its application programmin\u2026",
+            "url": "https://tech.slashdot.org/story/25/07/16/2030234/openai-says-it-will-use-googles-cloud-for-chatgpt",
+            "urlToImage": "https://a.fsdn.com/sd/topics/cloud_64.png",
+            "publishedAt": "2025-07-16T21:10:00Z",
+            "content": "The Fine Print: The following comments are owned by whoever posted them. We are not responsible for them in any way."
+        },
+        {
+            "source": {
+                "id": null,
+                "name": "Hipertextual"
+            },
+            "author": "Gabriel Erard",
+            "title": "Microsoft tira la toalla con Windows 11 SE, su respuesta a Chrome OS para ordenadores baratos",
+            "description": "Microsoft anunci\u00f3 Windows 11 SE a finales de 2021 como una versi\u00f3n especial de su sistema operativo destinada a ordenadores baratos y menos potentes. La idea de los de Redmond era que este software compitiera de forma directa con Chrome OS en un segmento cada\u2026",
+            "url": "http://hipertextual.com/software/microsoft-mata-windows-11-se-su-respuesta-a-chrome-os/",
+            "urlToImage": "https://i0.wp.com/imgs.hipertextual.com/wp-content/uploads/2021/11/surface-laptop-se-scaled.jpg?fit=2560%2C1440&quality=70&strip=all&ssl=1",
+            "publishedAt": "2025-08-01T16:10:00Z",
+            "content": "Microsoft anunci\u00f3 Windows 11 SE a finales de 2021 como una versi\u00f3n especial de su sistema operativo destinada a ordenadores baratos y menos potentes. La idea de los de Redmond era que este software c\u2026 [+2540 chars]"
+        },
+        {
+            "source": {
+                "id": null,
+                "name": "Hipertextual"
+            },
+            "author": "Gabriel Erard",
+            "title": "Windows 11 no para de mejorar y ahora supera a Windows 10 en un aspecto clave, seg\u00fan Microsoft",
+            "description": "Microsoft quiere que le des una oportunidad a Windows 11 y por ello no teme presumir las mejoras que el sistema operativo ha recibido en los \u00faltimos tiempos; en especial, desde que se lanz\u00f3 la actualizaci\u00f3n 24H2. Los de Redmond afirman que dicha edici\u00f3n no so\u2026",
+            "url": "http://hipertextual.com/software/windows-11-24h2-mas-confiable-que-windows-10-microsoft/",
+            "urlToImage": "https://imgs.hipertextual.com/wp-content/uploads/2024/04/windows-11-laptop.jpg",
+            "publishedAt": "2025-07-28T15:59:31Z",
+            "content": "Microsoft quiere que le des una oportunidad a Windows 11 y por ello no teme presumir las mejoras que el sistema operativo ha recibido en los \u00faltimos tiempos; en especial, desde que se lanz\u00f3 la actual\u2026 [+3095 chars]"
+        },
+        {
+            "source": {
+                "id": "business-insider",
+                "name": "Business Insider"
+            },
+            "author": "Theron Mohamed",
+            "title": "Bill Gates is now worth less than his former assistant, after his fortune was recalculated to reflect his philanthropy",
+            "description": "Bloomberg recalculated Bill Gates' net worth as $52 billion lower to reflect charitable giving, sending him seven places down on its rich list.",
+            "url": "https://www.businessinsider.com/bill-gates-steve-ballmer-wealth-billionaires-rich-list-microsoft-stock-2025-7",
+            "urlToImage": "https://i.insider.com/6867c69185e81483682d68b7?width=1200&format=jpeg",
+            "publishedAt": "2025-07-04T13:29:48Z",
+            "content": "Microsoft cofounder Bill Gates (left) and his former assistant and successor as CEO, Steve Ballmer, pictured in 1998.Getty Images / Staff\r\n<ul><li>Bloomberg recalculated Bill Gates' net worth on Thur\u2026 [+3156 chars]"
+        },
+        {
+            "source": {
+                "id": null,
+                "name": "Slashdot.org"
+            },
+            "author": "msmash",
+            "title": "Nvidia Hits $4 Trillion Market Cap, First Company To Do So",
+            "description": "Nvidia shares jumped more than 2% on Wednesday, topping a $4 trillion market cap for the first time as investors scooped stock in the tech giant building the hardware for the generative AI boom. From a report: The chipmaker is the first company to ever achiev\u2026",
+            "url": "https://slashdot.org/story/25/07/09/149217/nvidia-hits-4-trillion-market-cap-first-company-to-do-so",
+            "urlToImage": "https://a.fsdn.com/sd/topics/business_64.png",
+            "publishedAt": "2025-07-09T14:09:00Z",
+            "content": "The chipmaker is the first company to ever achieve this market value. Nvidia is the world's most valuable company, surpassing Microsoft and Apple, both of which hit the $3 trillion mark before Nvidia\u2026 [+491 chars]"
+        },
+        {
+            "source": {
+                "id": null,
+                "name": "Yahoo Entertainment"
+            },
+            "author": null,
+            "title": "Microsoft alerts businesses, governments to server software attack",
+            "description": null,
+            "url": "https://consent.yahoo.com/v2/collectConsent?sessionId=1_cc-session_89c1c859-38e2-4ab9-9727-35847ad92f13",
+            "urlToImage": null,
+            "publishedAt": "2025-07-21T00:00:40Z",
+            "content": "If you click 'Accept all', we and our partners, including 236 who are part of the IAB Transparency &amp; Consent Framework, will also store and/or access information on a device (in other words, use \u2026 [+714 chars]"
+        },
+        {
+            "source": {
+                "id": null,
+                "name": "Barchart.com"
+            },
+            "author": "Ebube Jones",
+            "title": "Dear Microsoft Stock Fans, Mark Your Calendars for July 30",
+            "description": "With earnings set for July 30, Microsoft is riding high on explosive AI and cloud growth, and analysts broadly expect its momentum to continue.",
+            "url": "https://www.barchart.com/story/news/33567071/dear-microsoft-stock-fans-mark-your-calendars-for-july-30",
+            "urlToImage": "https://media.zenfs.com/en/barchart_com_477/70f0cef0c027d2d0ac959916cfe49457",
+            "publishedAt": "2025-07-22T20:13:47Z",
+            "content": "Microsoft Corporation logo on sign-by Jean-Luc Ichard via iStock\r\nMicrosoft (MSFT) is pulling ahead of the competition. Its stock is up\u00a047% from its 52-week low, securing its spot among the best-perf\u2026 [+4414 chars]"
+        },
+        {
+            "source": {
+                "id": null,
+                "name": "Hipertextual"
+            },
+            "author": "Jos\u00e9 Mar\u00eda L\u00f3pez",
+            "title": "C\u00f3mo jugar al m\u00edtico 3D Pinball de Windows en Android, iPhone, Windows o Mac [2025]",
+            "description": "El pinball de Windows es uno de los juegos m\u00e1s recordados de los instalados por defecto en el sistema operativo de Microsoft. Debut\u00f3 oficialmente en Windows XP, aunque algunos pudimos probarlo antes gracias a la expansi\u00f3n Microsoft Plus! 95 de Windows 95. El \u2026",
+            "url": "http://hipertextual.com/categoria-hipertextual-101/pinball-windows-3d-pinball-space-cadet/",
+            "urlToImage": "https://i0.wp.com/imgs.hipertextual.com/wp-content/uploads/2025/07/3D-Pinball-Space-Cadet.jpg?fit=1920%2C1280&quality=70&strip=all&ssl=1",
+            "publishedAt": "2025-07-21T08:16:24Z",
+            "content": "El pinball de Windows es uno de los juegos m\u00e1s recordados de los instalados por defecto en el sistema operativo de Microsoft. Debut\u00f3 oficialmente en Windows XP, aunque algunos pudimos probarlo antes \u2026 [+4894 chars]"
+        },
+        {
+            "source": {
+                "id": null,
+                "name": "Hipertextual"
+            },
+            "author": "Luis Miranda",
+            "title": "Microsoft explica por qu\u00e9 despide a miles de empleados mientras gana cientos de millones de d\u00f3lares",
+            "description": "Microsoft ha intentado responder a la pregunta que se hacen todos: \u00bfpor qu\u00e9 despide a miles de empleados si cada trimestre rompe r\u00e9cords de ingresos? A unas semanas de anunciar un recorte masivo que deriv\u00f3 en el cierre de varios estudios de Xbox, la empresa s\u2026",
+            "url": "http://hipertextual.com/economia-empresas/microsoft-despidos-satya-nadella-ia-xbox/",
+            "urlToImage": "https://i0.wp.com/imgs.hipertextual.com/wp-content/uploads/2015/01/nadella.jpeg?fit=2048%2C1402&quality=70&strip=all&ssl=1",
+            "publishedAt": "2025-07-24T19:05:00Z",
+            "content": "Microsoft ha intentado responder a la pregunta que se hacen todos: \u00bfpor qu\u00e9 despide a miles de empleados si cada trimestre rompe r\u00e9cords de ingresos? A unas semanas de anunciar un recorte masivo que \u2026 [+2844 chars]"
+        },
+        {
+            "source": {
+                "id": null,
+                "name": "Hipertextual"
+            },
+            "author": "Luis Miranda",
+            "title": "El fin de una era: Microsoft dejar\u00e1 de vender pel\u00edculas y series de TV",
+            "description": "Microsoft cerr\u00f3 su tienda de pel\u00edculas y series, por lo que los usuarios no podr\u00e1n comprar m\u00e1s contenido. Tras a\u00f1os de experimentos, la compa\u00f1\u00eda tir\u00f3 la toalla y decidi\u00f3 que no era rentable mantener el servicio. Aquellos que compraron pel\u00edculas o series de TV\u2026",
+            "url": "http://hipertextual.com/2025/07/microsoft-cierra-tienda-peliculas-series-tv-windows-xbox",
+            "urlToImage": "https://i0.wp.com/imgs.hipertextual.com/wp-content/uploads/2025/07/microsoft-movies.jpg?fit=1920%2C1080&quality=70&strip=all&ssl=1",
+            "publishedAt": "2025-07-18T19:15:00Z",
+            "content": "Microsoft cerr\u00f3 su tienda de pel\u00edculas y series, por lo que los usuarios no podr\u00e1n comprar m\u00e1s contenido. Tras a\u00f1os de experimentos, la compa\u00f1\u00eda tir\u00f3 la toalla y decidi\u00f3 que no era rentable mantener \u2026 [+3172 chars]"
+        },
+        {
+            "source": {
+                "id": null,
+                "name": "Hipertextual"
+            },
+            "author": "Luis Miranda",
+            "title": "Microsoft advierte que Office dejar\u00e1 de recibir funciones en Windows 10 muy pronto",
+            "description": "Microsoft ha dejado claro que Windows 10 perder\u00e1 el soporte oficial en octubre de 2025. La compa\u00f1\u00eda no tiene planes de extender las actualizaciones m\u00e1s all\u00e1 del per\u00edodo adicional y esto tambi\u00e9n se reflejar\u00e1 en otras aplicaciones. Una de ellas es la suite de O\u2026",
+            "url": "http://hipertextual.com/2025/07/office-no-recibira-funciones-nuevas-windows-10-muy-pronto",
+            "urlToImage": "https://imgs.hipertextual.com/wp-content/uploads/2025/07/microsoft-office-iconos.jpg",
+            "publishedAt": "2025-07-14T18:25:21Z",
+            "content": "Microsoft ha dejado claro que Windows 10 perder\u00e1 el soporte oficial en octubre de 2025. La compa\u00f1\u00eda no tiene planes de extender las actualizaciones m\u00e1s all\u00e1 del per\u00edodo adicional y esto tambi\u00e9n se re\u2026 [+3246 chars]"
+        },
+        {
+            "source": {
+                "id": null,
+                "name": "CNET"
+            },
+            "author": "Zachary McAuliffe",
+            "title": "Drop Into Tony Hawk's Pro Skater 3 and 4, Now on Xbox Game Pass",
+            "description": "High on Life is also returning to Xbox Game Pass soon.",
+            "url": "https://www.cnet.com/tech/gaming/drop-into-tony-hawks-pro-skater-3-4-now-on-xbox-game-pass/",
+            "urlToImage": "https://www.cnet.com/a/img/resize/7cf3cc298c8c6e20336a90479788c63cc35f95ba/hub/2025/07/01/c38145d6-14d7-48e8-bae7-d4e346606e68/thps-34-titledheroart-1920x1080-c0128887cfbdf11c3d2a-1900x1080.jpg?auto=webp&fit=crop&height=675&width=1200",
+            "publishedAt": "2025-07-11T12:00:09Z",
+            "content": "The Tony Hawk games were some of my favorites when I was growing up. The soundtracks helped form my musical taste and the games helped propel me and my friends to learn to skateboard. So I'm grabbing\u2026 [+4926 chars]"
+        },
+        {
+            "source": {
+                "id": null,
+                "name": "Hackaday"
+            },
+            "author": "Jonathan Bennett",
+            "title": "This Week in Security: Sharepoint, Initramfs, and More",
+            "description": "There was a disturbance in the enterprise security world, and it started with a Pwn2Own Berlin. [Khoa Dinh] and the team at Viettel Cyber Security discovered a pair of vulnerabilities in Microsoft&\u2026",
+            "url": "https://hackaday.com/2025/07/25/this-week-in-security-sharepoint-initramfs-and-more/",
+            "urlToImage": "https://hackaday.com/wp-content/uploads/2016/01/darkarts.jpg",
+            "publishedAt": "2025-07-25T14:00:18Z",
+            "content": "There was a disturbance in the enterprise security world, and it started with a Pwn2Own Berlin. [Khoa Dinh] and the team at Viettel Cyber Security discovered a pair of vulnerabilities in Microsoft\u2019s \u2026 [+8129 chars]"
+        },
+        {
+            "source": {
+                "id": "the-verge",
+                "name": "The Verge"
+            },
+            "author": "Alex Heath",
+            "title": "Google gets its swag back",
+            "description": "This week, I take a look at the surprisingly strong state of Google, Meta gets a new chief AI researcher, and more. If you haven't already, be sure to check out this week's Decoder episode about deepfakes and where they are headed. Also, do you use an AI codi\u2026",
+            "url": "https://www.theverge.com/command-line-newsletter/713603/google-search-chatgpt-openai-earnings-ai-race-swag",
+            "urlToImage": "https://platform.theverge.com/wp-content/uploads/sites/2/2025/07/Sundar-Picahi-sunglasses-site-wide-CL.png?quality=90&strip=all&crop=0%2C10.732984293194%2C100%2C78.534031413613&w=1200",
+            "publishedAt": "2025-07-25T19:52:59Z",
+            "content": "<ul><li></li><li></li><li></li></ul>\r\nReports of Googles death at the hands of ChatGPT have been greatly exaggerated.\r\nReports of Googles death at the hands of ChatGPT have been greatly exaggerated.\r\u2026 [+7342 chars]"
+        },
+        {
+            "source": {
+                "id": null,
+                "name": "Yahoo Entertainment"
+            },
+            "author": "Bloomberg",
+            "title": "Transitions in the Semiconductor Space",
+            "description": "Simplify Asset Management Portfolio Manager Michael Green discusses how investors are preparing for a busy week of tech earnings, as Microsoft, Meta, Apple, ...",
+            "url": "https://finance.yahoo.com/video/transitions-semiconductor-space-194051785.html",
+            "urlToImage": "https://s.yimg.com/ny/api/res/1.2/ZYQWliI9lHsjE7kZyeY4ww--/YXBwaWQ9aGlnaGxhbmRlcjt3PTEyMDA7aD02NzU-/https://media.zenfs.com/en/bloomberg_markets_video_2/1b5a3732e2fba25ca831cc6b080021fd",
+            "publishedAt": "2025-07-28T19:40:51Z",
+            "content": "Simplify Asset Management Portfolio Manager Michael Green discusses how investors are preparing for a busy week of tech earnings, as Microsoft, Meta, Apple, and Amazon are set to release quarterly re\u2026 [+72 chars]"
+        },
+        {
+            "source": {
+                "id": "business-insider",
+                "name": "Business Insider"
+            },
+            "author": "Ashley Stewart",
+            "title": "Microsoft CEO calls job cuts in the midst of big profits the 'enigma of success' in internal memo",
+            "description": "Some employees have criticized the software giant for conducting layoffs while making billions of dollars in profit.",
+            "url": "https://www.businessinsider.com/microsoft-ceo-memo-job-cuts-profit-enigma-of-success-2025-7",
+            "urlToImage": "https://i.insider.com/688249b1f748d8c055f633e2?width=1200&format=jpeg",
+            "publishedAt": "2025-07-24T16:27:49Z",
+            "content": "CEO of Microsoft Satya Nadella at the Allen & Company conference in Sun ValleyBrendan McDermid/REUTERS\r\n<ul><li>Satya Nadella tries to explain why Microsoft is cutting jobs amid financial success.</l\u2026 [+8723 chars]"
+        },
+        {
+            "source": {
+                "id": null,
+                "name": "Yahoo Entertainment"
+            },
+            "author": "Ghazal Ahmed",
+            "title": "Microsoft (MSFT) Gets $600 Price Target\u2014Oppenheimer Calls It a Long-Term AI Winner",
+            "description": "Microsoft Corporation (NASDAQ:MSFT) is one of the AI Stocks Making Waves on Wall Street. On July 9, Oppenheimer upgraded the stock to \u201cOutperform\u201d from...",
+            "url": "https://finance.yahoo.com/news/microsoft-msft-gets-600-price-104121525.html",
+            "urlToImage": "https://media.zenfs.com/en/insidermonkey.com/52d1772a91e0b074c5496ca25de5811e",
+            "publishedAt": "2025-07-11T10:41:21Z",
+            "content": "Microsoft Corporation (NASDAQ:MSFT) is one of the AI Stocks Making Waves on Wall Street.\u00a0On July 9, Oppenheimer upgraded the stock to Outperform from Perform with a $600 price target.\r\nWe upgrade MSF\u2026 [+1751 chars]"
+        },
+        {
+            "source": {
+                "id": "wired",
+                "name": "Wired"
+            },
+            "author": "Lily Hay Newman, Matt Burgess",
+            "title": "Age Verification Laws Send VPN Use Soaring\u2014and Threaten the Open Internet",
+            "description": "A law requiring UK internet users to verify their age to access adult content has led to a huge surge in VPN downloads\u2014and has experts worried about the future of free expression online.",
+            "url": "https://www.wired.com/story/vpn-use-spike-age-verification-laws-uk/",
+            "urlToImage": "https://media.wired.com/photos/6887b871fa9e0204bc4390aa/191:100/w_1280,c_limit/vpn-porn-age-check-sec-183821813.jpg",
+            "publishedAt": "2025-07-29T10:30:00Z",
+            "content": "After the United Kingdoms Online Safety Act went into effect on Friday, requiring porn platforms and other adult content sites to implement user age verification mechanisms, use of virtual private ne\u2026 [+3018 chars]"
+        },
+        {
+            "source": {
+                "id": "polygon",
+                "name": "Polygon"
+            },
+            "author": "Matt Patches",
+            "title": "Switch 2 has actual competition from Nintendo clones",
+            "description": "Sony and Microsoft don\u2019t sweat Nintendo. At least, that\u2019s the corporate line \u2014\u00a0they still might be coming for Nintendo\u2019s ass.\u00a0 Sony has shrugged off the notion that the PlayStation brand, with high-end graphics and adult-friendly play, could be considered in \u2026",
+            "url": "https://www.polygon.com/gaming/610770/switch-2-real-competition-nintendo-clones",
+            "urlToImage": "https://platform.polygon.com/wp-content/uploads/sites/2/2025/07/nintendocompetition.jpg?quality=90&strip=all&crop=0%2C3.4613147178592%2C100%2C93.077370564282&w=1200",
+            "publishedAt": "2025-07-04T17:46:55Z",
+            "content": "Sony and Microsoft don\u2019t sweat Nintendo. At least, that\u2019s the corporate line \u2014\u00a0they still might be coming for Nintendo\u2019s ass.\u00a0\n\nSony has shrugged off the notion that the PlayStation brand, with high-\u2026 [+7537 chars]"
+        },
+        {
+            "source": {
+                "id": "the-verge",
+                "name": "The Verge"
+            },
+            "author": "Tom Warren",
+            "title": "Sony\u2019s new PS5 Power Saver mode sounds ideal for a PlayStation handheld",
+            "description": "Sony is starting to test a new Power Saver mode for PS5 consoles that will allow games to \u201crun with lower power consumption.\u201d The Power Saver mode is being revealed as part of a new PS5 system update beta today, which allows you to pair a DualSense controller\u2026",
+            "url": "https://www.theverge.com/news/712212/sony-ps5-power-saver-handheld-rumors",
+            "urlToImage": "https://platform.theverge.com/wp-content/uploads/sites/2/chorus/uploads/chorus_asset/file/21990370/vpavic_4261_20201023_0058.jpg?quality=90&strip=all&crop=0%2C10.732984293194%2C100%2C78.534031413613&w=1200",
+            "publishedAt": "2025-07-23T12:29:30Z",
+            "content": "<ul><li></li><li></li><li></li></ul>\r\nA new PS5 beta update also lets you pair a DualSense controller to four devices simultaneously.\r\nA new PS5 beta update also lets you pair a DualSense controller \u2026 [+2835 chars]"
+        },
+        {
+            "source": {
+                "id": null,
+                "name": "Gizmodo.com"
+            },
+            "author": "Luc Olinga",
+            "title": "It Started with Games, now It\u2019s the World\u2019s First Ever $4 Trillion Company",
+            "description": "Nvidia hits a historic milestone as Wall Street\u2019s biggest bet on AI pays off.",
+            "url": "https://gizmodo.com/it-started-with-games-now-its-the-worlds-first-ever-4-trillion-company-2000626863",
+            "urlToImage": "https://gizmodo.com/app/uploads/2025/01/Nvidia-CEO-Jensen-Huang-RTX-50-Series-GPU-1-1200x675.jpg",
+            "publishedAt": "2025-07-09T17:14:33Z",
+            "content": "Nvidia made history on Wednesday, becoming the first company in the world to reach a $4 trillion market capitalization. This unprecedented milestone solidifies its position as a dominant force in the\u2026 [+4185 chars]"
+        },
+        {
+            "source": {
+                "id": null,
+                "name": "Gizmodo.com"
+            },
+            "author": "Gizmodo Deals",
+            "title": "Sorry If You Already Own One, but the Surface Pro Is Going for Peanuts This Prime Day",
+            "description": "The Surface Pro is a strong alternative to the iPad Pro.",
+            "url": "https://gizmodo.com/sorry-if-you-already-own-one-but-the-surface-pro-is-going-for-peanuts-this-prime-day-2000626062",
+            "urlToImage": "https://gizmodo.com/app/uploads/2024/11/surface-pro-11-microsoft.jpg",
+            "publishedAt": "2025-07-08T19:25:13Z",
+            "content": "The Microsoft Surface Pro has long been famed as the ultimate hybrid PC, quickly switching from a tablet to a full-fledged laptop in seconds. What truly sets it apart is that it\u2019s able to run Windows\u2026 [+2431 chars]"
+        },
+        {
+            "source": {
+                "id": null,
+                "name": "Gizmodo.com"
+            },
+            "author": "Gizmodo Deals",
+            "title": "Galaxy Watch 7 Is Almost Free, Amazon Clears Out Samsung Watches on Prime Day",
+            "description": "If you have an Android phone, the Galaxy Watch 7 costs three times less than an Apple Watch.",
+            "url": "https://gizmodo.com/galaxy-watch-7-is-almost-free-amazon-clears-out-samsung-watches-on-prime-day-2000626076",
+            "urlToImage": "https://gizmodo.com/app/uploads/2025/07/watch-7-1200x675.jpg",
+            "publishedAt": "2025-07-08T19:35:27Z",
+            "content": "Prime Day is a showcase for top electronics brands and this year is no exception. Whether youre an Apple fan, a Samsung enthusiast, or loyal to Microsoft or Sony, theres something for everyone. Samsu\u2026 [+2175 chars]"
+        }
+    ]
+}
